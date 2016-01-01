@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 The Chromium Authors. All rights reserved.
+     Use of this source code is governed by a BSD-style license that can be
+     found in the LICENSE file. -->
+<LinearLayout android:gravity="center_vertical" android:id="@+id/subcontrol_toggle" android:layout_height="36dp" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  
+
+    
+  <ImageView android:contentDescription="@null" android:id="@+id/control_toggle_icon" android:layout_height="match_parent" android:layout_marginRight="8dp" android:layout_width="wrap_content" android:scaleType="centerInside"/>
+  
+
+    
+  <TextView android:gravity="center_vertical" android:id="@+id/control_toggle_message" android:layout_height="match_parent" android:layout_weight="1" android:layout_width="0dp" android:lineSpacingMultiplier="1.4" android:textColor="@color/default_text_color" android:textSize="@dimen/infobar_control_text_size"/>
+  
+
+    
+  <Switch android:id="@+id/control_toggle_switch" android:layout_height="match_parent" android:layout_marginLeft="16dp" android:layout_width="wrap_content"/>
+  
+
+
+</LinearLayout>

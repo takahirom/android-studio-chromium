@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 The Chromium Authors. All rights reserved.
+     Use of this source code is governed by a BSD-style license that can be
+     found in the LICENSE file. -->
+<!--
+  Web notification custom layout, big state.
+  _______________________________________________________
+  |        |                                            |
+  |  Icon  |  Title text                        1:23 pm |
+  |        |                                            |
+  |        |  Body text which may run to multiple lines |
+  |________|  if there is a lot of it.                  |
+  |           __________________________________________|
+  |                                                     |
+  |           Button       Button       Settings        |
+  |           __________________________________________|
+  |                                                     |
+  |           www.example.com                           |
+  |_____________________________________________________|
+-->
+<RelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  
+
+    
+  <include android:id="@+id/icon_frame" layout="@layout/web_notification_icon_frame"/>
+  
+
+    
+  <!--
+      This LinearLayout handles dynamically changing the visibility of the buttons related views.
+      The apparent alternative of setting layout params from Java on a RelativeLayout does not work
+      with RemoteViews. The alternative of using a separate template when there are buttons was
+      rejected to avoid code duplication.
+    -->
+  
+    
+  <LinearLayout android:layout_alignParentRight="true" android:layout_height="wrap_content" android:layout_toRightOf="@id/icon_frame" android:layout_width="match_parent" android:orientation="vertical">
+    
+
+        
+    <RelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent">
+      
+
+            
+      <TextView android:ellipsize="end" android:id="@+id/title" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_height="wrap_content" android:layout_toLeftOf="@id/time" android:layout_width="wrap_content" android:singleLine="true" style="@style/WebNotificationTitleBig"/>
+      
+
+            
+      <TextView android:id="@+id/time" android:layout_alignBaseline="@id/title" android:layout_alignParentRight="true" android:layout_alignParentTop="true" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginTop="8dp" android:layout_width="wrap_content" android:singleLine="true" style="@style/WebNotificationTime"/>
+      
+
+        
+    </RelativeLayout>
+    
+
+        
+    <TextView android:ellipsize="end" android:id="@+id/body" android:layout_height="wrap_content" android:layout_marginBottom="8dp" android:layout_marginRight="8dp" android:layout_width="wrap_content" android:maxLines="8" style="@style/WebNotificationBodyBig"/>
+    
+
+        
+    <ImageView android:contentDescription="@null" android:id="@+id/button_divider" android:layout_height="1dp" android:layout_marginTop="2dp" android:layout_width="match_parent" android:visibility="gone" style="@style/WebNotificationDivider"/>
+    
+
+        
+    <LinearLayout android:id="@+id/buttons" android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="horizontal" android:visibility="gone" style="@style/WebNotificationButtons"/>
+    
+
+        
+    <ImageView android:contentDescription="@null" android:id="@+id/footer_divider" android:layout_height="1dp" android:layout_marginBottom="8dp" android:layout_width="match_parent" style="@style/WebNotificationDivider"/>
+    
+
+        
+    <RelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent">
+      
+
+            
+      <TextView android:ellipsize="start" android:id="@+id/origin" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:layout_marginRight="8dp" android:layout_toLeftOf="@+id/small_icon_footer" android:layout_width="match_parent" android:singleLine="true" style="@style/WebNotificationOrigin"/>
+      
+
+            
+      <ViewStub android:id="@id/small_icon_footer" android:inflatedId="@id/small_icon_footer" android:layout="@layout/web_notification_small_icon" android:layout_alignParentRight="true" android:layout_alignParentTop="true" android:layout_height="16dp" android:layout_marginRight="8dp" android:layout_width="16dp"/>
+      
+
+        
+    </RelativeLayout>
+    
+
+    
+  </LinearLayout>
+  
+
+
+</RelativeLayout>

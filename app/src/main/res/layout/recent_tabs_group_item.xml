@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 The Chromium Authors. All rights reserved.
+     Use of this source code is governed by a BSD-style license that can be
+     found in the LICENSE file. -->
+<org.chromium.chrome.browser.ntp.RecentTabsGroupView android:background="?attr/selectableItemBackground" android:layout_height="wrap_content" android:layout_width="match_parent" android:minHeight="64dp" android:paddingBottom="16dp" android:paddingTop="16dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  
+
+    
+  <org.chromium.chrome.browser.widget.TintedImageView android:contentDescription="@null" android:id="@+id/device_icon" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_height="24dp" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_width="24dp"/>
+  
+
+    
+  <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@+id/device_label" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/expand_collapse_icon" android:layout_toRightOf="@id/device_icon" android:layout_width="match_parent" android:minHeight="24dp" android:singleLine="true" android:textAlignment="viewStart" android:textColor="@color/ntp_list_header_text" android:textSize="16sp"/>
+  
+
+    
+  <TextView android:ellipsize="end" android:id="@+id/time_label" android:layout_alignLeft="@id/device_label" android:layout_alignRight="@id/device_label" android:layout_below="@id/device_label" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_width="match_parent" android:textAlignment="viewStart" android:textColor="@color/ntp_list_header_subtext" android:textSize="12sp"/>
+  
+
+    
+  <ImageView android:contentDescription="@null" android:id="@+id/expand_collapse_icon" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="16dp" android:layout_width="wrap_content"/>
+  
+
+
+</org.chromium.chrome.browser.ntp.RecentTabsGroupView>

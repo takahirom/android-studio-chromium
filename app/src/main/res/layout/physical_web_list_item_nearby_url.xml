@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 The Chromium Authors. All rights reserved.
+     Use of this source code is governed by a BSD-style license that can be
+     found in the LICENSE file. -->
+<RelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:paddingBottom="20dp" android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingTop="16dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  
+    
+  <ImageView android:contentDescription="@null" android:id="@+id/nearby_urls_icon" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_height="32dp" android:layout_marginTop="6dp" android:layout_width="32dp">
+    </ImageView>
+  
+    
+  <TextView android:ellipsize="end" android:id="@+id/nearby_urls_title" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_height="wrap_content" android:layout_marginLeft="66dp" android:layout_width="match_parent" android:singleLine="true" android:textColor="@color/nearby_urls_header_color" android:textSize="16sp">
+    </TextView>
+  
+    
+  <TextView android:ellipsize="end" android:id="@+id/nearby_urls_url" android:layout_alignParentLeft="true" android:layout_below="@id/nearby_urls_title" android:layout_height="wrap_content" android:layout_marginLeft="66dp" android:layout_width="match_parent" android:singleLine="true" android:textColor="@color/nearby_urls_subheader_color" android:textSize="14sp">
+    </TextView>
+  
+    
+  <TextView android:ellipsize="end" android:id="@+id/nearby_urls_description" android:layout_alignParentLeft="true" android:layout_below="@id/nearby_urls_url" android:layout_height="wrap_content" android:layout_marginLeft="66dp" android:layout_width="match_parent" android:lineSpacingExtra="1.5dp" android:lines="2" android:textColor="@color/nearby_urls_subheader_color" android:textSize="14sp">
+    </TextView>
+  
+
+</RelativeLayout>
