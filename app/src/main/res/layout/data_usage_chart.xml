@@ -13,7 +13,7 @@
     android:paddingBottom="8dp" >
 
     <org.chromium.third_party.android.datausagechart.ChartNetworkSeriesView
-        android:id="@id/original_series"
+        android:id="@+id/original_series"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/data_reduction_chart_background_color"
@@ -22,7 +22,7 @@
         settings:fillColorSecondary="@color/data_reduction_original_color" />
 
     <org.chromium.third_party.android.datausagechart.ChartNetworkSeriesView
-        android:id="@id/compressed_series"
+        android:id="@+id/compressed_series"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         settings:strokeColor="@color/data_reduction_compressed_color"
