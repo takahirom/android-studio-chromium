@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Chromium.iml" filepath="$PROJECT_DIR$/Chromium.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_data_chart/android_data_chart.iml" filepath="$PROJECT_DIR$/android_data_chart/android_data_chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_media/android_media.iml" filepath="$PROJECT_DIR$/android_media/android_media.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

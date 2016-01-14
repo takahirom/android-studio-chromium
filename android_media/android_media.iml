@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" external.system.module.group="Chromium" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":android_media" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" external.system.module.group="Chromium" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
-        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="GRADLE_PROJECT_PATH" value=":android_media" />
       </configuration>
     </facet>
     <facet type="android" name="Android">
@@ -19,10 +19,10 @@
           <task>generateDebugSources</task>
         </afterSyncTasks>
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/java/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/java/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="LIBRARY_PROJECT" value="true" />
       </configuration>
     </facet>
   </component>
@@ -50,13 +50,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src/debug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/jni" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/java/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/java/src" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
@@ -71,10 +69,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dex-cache" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jacoco" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaResources" />
@@ -88,50 +82,14 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="base_java" level="project" />
-    <orderEntry type="library" exported="" name="gcm_driver_java" level="project" />
-    <orderEntry type="library" exported="" name="blink_headers_java" level="project" />
-    <orderEntry type="library" exported="" name="android_media_java" level="project" />
-    <orderEntry type="library" exported="" name="signin_core_browser_java" level="project" />
-    <orderEntry type="library" exported="" name="palette-v7-23.1.0" level="project" />
-    <orderEntry type="library" exported="" name="ui_accessibility_java" level="project" />
-    <orderEntry type="library" exported="" name="appcompat-v7-23.1.0" level="project" />
-    <orderEntry type="library" exported="" name="service_tab_launcher_java" level="project" />
-    <orderEntry type="library" exported="" name="mojo_bindings_java" level="project" />
-    <orderEntry type="library" exported="" name="invalidation_proto_java" level="project" />
-    <orderEntry type="library" exported="" name="web_contents_delegate_android_java" level="project" />
-    <orderEntry type="library" exported="" name="media_java" level="project" />
-    <orderEntry type="library" exported="" name="gif_player_java" level="project" />
-    <orderEntry type="library" exported="" name="navigation_interception_java" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.1.0" level="project" />
-    <orderEntry type="library" exported="" name="printing_java" level="project" />
-    <orderEntry type="library" exported="" name="bookmarks_java" level="project" />
-    <orderEntry type="library" exported="" name="content_java" level="project" />
-    <orderEntry type="library" exported="" name="variations_java" level="project" />
-    <orderEntry type="library" exported="" name="device_battery_java" level="project" />
-    <orderEntry type="library" exported="" name="net_java" level="project" />
-    <orderEntry type="library" exported="" name="precache_java" level="project" />
-    <orderEntry type="library" exported="" name="midi_java" level="project" />
-    <orderEntry type="library" exported="" name="ui_java" level="project" />
-    <orderEntry type="library" exported="" name="mojo_public_java" level="project" />
-    <orderEntry type="library" exported="" name="android_swipe_refresh_java" level="project" />
-    <orderEntry type="library" exported="" name="device_vibration_java" level="project" />
-    <orderEntry type="library" exported="" name="document_tab_model_info_proto_java" level="project" />
-    <orderEntry type="library" exported="" name="device_bluetooth_java" level="project" />
-    <orderEntry type="library" exported="" name="android_data_chart_java" level="project" />
-    <orderEntry type="library" exported="" name="policy_java" level="project" />
-    <orderEntry type="library" exported="" name="sync_java" level="project" />
-    <orderEntry type="library" exported="" name="cacheinvalidation_proto_java" level="project" />
+    <orderEntry type="library" exported="" name="palette-v7-23.1.0" level="project" />
+    <orderEntry type="library" exported="" name="appcompat-v7-23.1.0" level="project" />
     <orderEntry type="library" exported="" name="mediarouter-v7-23.1.0" level="project" />
-    <orderEntry type="library" exported="" name="mojo_system_java" level="project" />
-    <orderEntry type="library" exported="" name="dom_distiller_java" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.1.0" level="project" />
-    <orderEntry type="library" exported="" name="invalidation_java" level="project" />
-    <orderEntry type="library" exported="" name="safe_json_java" level="project" />
-    <orderEntry type="module" module-name="android_media" exported="" />
-    <orderEntry type="module" module-name="android_data_chart" exported="" />
   </component>
 </module>

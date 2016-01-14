@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/android_data_chart" />
+            <option value="$PROJECT_DIR$/android_media" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
