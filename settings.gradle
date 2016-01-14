@@ -1,1 +1,1 @@
-include ':app',':android_data_chart'
+include ':app',':android_data_chart',':android_media'
