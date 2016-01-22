@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v7/mediarouter/res/values-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="mr_controller_volume_group_list_item_height">61dp</dimen>
+    <dimen name="mr_controller_volume_group_list_item_icon_size">18dp</dimen>
+    <dimen name="mr_controller_volume_group_list_max_height">132dp</dimen>
+</resources>

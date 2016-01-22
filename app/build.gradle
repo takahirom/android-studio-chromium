@@ -24,6 +24,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile project(":android_data_chart")
     compile project(":android_media")
+    compile project(":content_public")
     compile "com.android.support:appcompat-v7:23.1.0"
     compile "com.android.support:mediarouter-v7:23.1.0"
 }

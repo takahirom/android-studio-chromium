@@ -131,6 +131,7 @@
     <orderEntry type="library" exported="" name="support-v4-23.1.0" level="project" />
     <orderEntry type="library" exported="" name="invalidation_java" level="project" />
     <orderEntry type="library" exported="" name="safe_json_java" level="project" />
+    <orderEntry type="module" module-name="content_public" exported="" />
     <orderEntry type="module" module-name="android_media" exported="" />
     <orderEntry type="module" module-name="android_data_chart" exported="" />
   </component>

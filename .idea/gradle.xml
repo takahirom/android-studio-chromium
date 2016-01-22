@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/android_data_chart" />
             <option value="$PROJECT_DIR$/android_media" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/content_public" />
           </set>
         </option>
       </GradleProjectSettings>

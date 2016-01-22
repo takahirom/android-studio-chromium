@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-sw720dp/values-sw720dp.xml -->
+    <eat-comment/>
+    <item name="mr_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="mr_dialog_fixed_width_minor" type="dimen">70%</item>
+</resources>

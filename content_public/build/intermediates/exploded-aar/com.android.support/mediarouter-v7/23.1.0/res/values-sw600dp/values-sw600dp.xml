@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v7/mediarouter/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <item name="mr_dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="mr_dialog_fixed_width_minor" type="dimen">90%</item>
+</resources>
