@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-pt-rBR/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Compartilhar"</string>
+    <string name="actionbar_textselection_title">"Seleção de texto"</string>
+    <string name="actionbar_web_search">"Pesquisa da Web"</string>
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Não é possível realizar o streaming deste vídeo para este dispositivo."</string>
+    <string name="media_player_error_text_unknown">"Não é possível reproduzir este vídeo."</string>
+    <string name="media_player_error_title">"Não é possível reproduzir vídeo"</string>
+    <string name="media_player_loading_video">"Carregando vídeo"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-pt-rBR/values-pt-rBR.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Transmitir"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Interromper transmissão"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-pt-rBR/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Falha ao iniciar o profiler"</string>
+    <string name="profiler_no_storage_toast">"Não é possível iniciar o profiler porque o armazenamento externo não está pronto"</string>
+    <string name="profiler_started_toast">"Profiler iniciado"</string>
+    <string name="profiler_stopped_toast">"Profiler terminado. Os resultados estão em %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-pt-rBR/values-pt-rBR.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

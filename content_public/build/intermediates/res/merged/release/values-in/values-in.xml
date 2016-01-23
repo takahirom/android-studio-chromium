@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bagikan dengan %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-in/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Bagikan"</string>
+    <string name="actionbar_textselection_title">"Pemilihan teks"</string>
+    <string name="actionbar_web_search">"Penelusuran web"</string>
+    <string name="media_player_error_button">"Oke"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Maaf, video ini tidak dapat di-streaming ke perangkat ini."</string>
+    <string name="media_player_error_text_unknown">"Maaf, video tidak dapat diputar."</string>
+    <string name="media_player_error_title">"Tidak dapat memutar video"</string>
+    <string name="media_player_loading_video">"Memuat video"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-in/values-in.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Transmisi"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Hentikan transmisi"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Perangkat"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-in/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Gagal memulai profiler"</string>
+    <string name="profiler_no_storage_toast">"Tidak dapat memulai profiler karena penyimpanan eksternal tidak siap"</string>
+    <string name="profiler_started_toast">"Profiler dimulai"</string>
+    <string name="profiler_stopped_toast">"Profiler selesai. Hasil berupa %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-in/values-in.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-de/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Teilen"</string>
+    <string name="actionbar_textselection_title">"Textauswahl"</string>
+    <string name="actionbar_web_search">"Websuche"</string>
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Leider ist dieses Video nicht für Streaming auf diesem Gerät gültig."</string>
+    <string name="media_player_error_text_unknown">"Dieses Video kann leider nicht abgespielt werden."</string>
+    <string name="media_player_error_title">"Videowiedergabe nicht möglich"</string>
+    <string name="media_player_loading_video">"Video wird geladen"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-de/values-de.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Streamen"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Streaming stoppen"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Geräte"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-de/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Profiler konnte nicht gestartet werden."</string>
+    <string name="profiler_no_storage_toast">"Profiler kann nicht gestartet werden, da der externe Speicher nicht bereit ist."</string>
+    <string name="profiler_started_toast">"Profiler gestartet"</string>
+    <string name="profiler_stopped_toast">"Profiler ist fertig. Die Ergebnisse befinden sich in der Datei %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-de/values-de.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

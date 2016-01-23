@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-es-rUS/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Compartir"</string>
+    <string name="actionbar_textselection_title">"Selección de texto"</string>
+    <string name="actionbar_web_search">"Búsqueda en la Web"</string>
+    <string name="media_player_error_button">"Aceptar"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"El video no se puede transmitir a este dispositivo."</string>
+    <string name="media_player_error_text_unknown">"El video no se puede reproducir."</string>
+    <string name="media_player_error_title">"No se puede reproducir el video."</string>
+    <string name="media_player_loading_video">"Cargando video"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-es-rUS/values-es-rUS.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Transmitir"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Detener la transmisión"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-es-rUS/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Error al iniciar el generador de perfiles"</string>
+    <string name="profiler_no_storage_toast">"No se puede iniciar el generador de perfiles porque el almacenamiento externo no está disponible."</string>
+    <string name="profiler_started_toast">"Se inició el generador de perfiles."</string>
+    <string name="profiler_stopped_toast">"El generador de perfiles terminó. Los resultados están en %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-es-rUS/values-es-rUS.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

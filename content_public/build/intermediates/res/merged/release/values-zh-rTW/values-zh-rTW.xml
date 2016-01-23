@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-zh-rTW/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"分享"</string>
+    <string name="actionbar_textselection_title">"選取文字"</string>
+    <string name="actionbar_web_search">"網頁搜尋"</string>
+    <string name="media_player_error_button">"確定"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"很抱歉，這部影片的格式有誤，無法透過這個裝置串流播放。"</string>
+    <string name="media_player_error_text_unknown">"很抱歉，無法播放這部影片。"</string>
+    <string name="media_player_error_title">"無法播放影片"</string>
+    <string name="media_player_loading_video">"正在載入影片"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-zh-rTW/values-zh-rTW.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"投放"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"停止投放"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"系統"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"裝置"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-zh-rTW/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"無法啟動分析器"</string>
+    <string name="profiler_no_storage_toast">"外部儲存空間尚未準備就緒，因此無法啟動分析器"</string>
+    <string name="profiler_started_toast">"分析器已啟動"</string>
+    <string name="profiler_stopped_toast">"分析器已執行完成，請參閱 %1$s 查看分析結果。"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-zh-rTW/values-zh-rTW.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

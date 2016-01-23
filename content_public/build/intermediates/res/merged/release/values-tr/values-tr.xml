@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-tr/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Paylaş"</string>
+    <string name="actionbar_textselection_title">"Metin seçimi"</string>
+    <string name="actionbar_web_search">"Web arama"</string>
+    <string name="media_player_error_button">"Tamam"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Bu video maalesef bu cihaza akışla gönderilmek için uygun değil."</string>
+    <string name="media_player_error_text_unknown">"Maalesef bu video oynatılamıyor."</string>
+    <string name="media_player_error_title">"Video oynatılamıyor"</string>
+    <string name="media_player_loading_video">"Video yükleniyor"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-tr/values-tr.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Yayınla"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Yayını durdur"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Cihazlar"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-tr/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Profil düzenleyici başlatılamadı"</string>
+    <string name="profiler_no_storage_toast">"Harici depolama birimi hazır olmadığından profil düzenleyici başlatılamıyor"</string>
+    <string name="profiler_started_toast">"Profil düzenleyici başlatıldı"</string>
+    <string name="profiler_stopped_toast">"Profil düzenleyici tamamlandı. Sonuçlar %1$s dosyasındadır."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-tr/values-tr.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

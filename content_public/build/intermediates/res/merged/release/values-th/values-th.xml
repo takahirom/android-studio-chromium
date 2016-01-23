@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-th/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"แชร์"</string>
+    <string name="actionbar_textselection_title">"การเลือกข้อความ"</string>
+    <string name="actionbar_web_search">"ค้นเว็บ"</string>
+    <string name="media_player_error_button">"ตกลง"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"ขออภัย ไม่สามารถสตรีมวิดีโอไปยังอุปกรณ์นี้"</string>
+    <string name="media_player_error_text_unknown">"ขออภัย วิดีโอนี้เล่นไม่ได้"</string>
+    <string name="media_player_error_title">"ไม่สามารถเล่นวิดีโอ"</string>
+    <string name="media_player_loading_video">"กำลังโหลดวิดีโอ"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-th/values-th.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"แคสต์"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"หยุดการแคสต์"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"ระบบ"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"อุปกรณ์"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-th/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"ไม่สามารถเริ่มโปรแกรมโปรไฟล์เลอร์"</string>
+    <string name="profiler_no_storage_toast">"ไม่สามารถเริ่มโปรแกรมโปรไฟล์เลอร์ได้เนื่องจากที่จัดเก็บข้อมูลภายนอกไม่พร้อมใช้งาน"</string>
+    <string name="profiler_started_toast">"เริ่มโปรแกรมโปรไฟล์เลอร์แล้ว"</string>
+    <string name="profiler_stopped_toast">"โปรแกรมโปรไฟล์เลอร์ดำเนินการเสร็จแล้ว ผลลัพธ์อยู่ใน %1$s"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-th/values-th.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

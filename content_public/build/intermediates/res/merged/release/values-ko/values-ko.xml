@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-ko/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"공유"</string>
+    <string name="actionbar_textselection_title">"텍스트 선택"</string>
+    <string name="actionbar_web_search">"웹 검색"</string>
+    <string name="media_player_error_button">"확인"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"죄송합니다. 이 동영상은 이 기기로 스트리밍할 수 없습니다."</string>
+    <string name="media_player_error_text_unknown">"동영상을 재생할 수 없습니다."</string>
+    <string name="media_player_error_title">"동영상 재생 안됨"</string>
+    <string name="media_player_loading_video">"동영상 로드 중"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"전송"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"전송 중지"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"시스템"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"기기"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-ko/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"프로파일러를 시작하지 못했습니다."</string>
+    <string name="profiler_no_storage_toast">"외부 저장소가 준비되지 않아 프로파일러를 시작할 수 없습니다."</string>
+    <string name="profiler_started_toast">"프로파일러가 시작되었습니다."</string>
+    <string name="profiler_stopped_toast">"프로파일러가 완료되었습니다. 결과는 %1$s에 있습니다."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

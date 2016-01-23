@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-sv/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Dela"</string>
+    <string name="actionbar_textselection_title">"Textmarkering"</string>
+    <string name="actionbar_web_search">"Webbsökning"</string>
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Det går tyvärr inte att spela upp videon på den här enheten."</string>
+    <string name="media_player_error_text_unknown">"Det går tyvärr inte att spela upp den här videon."</string>
+    <string name="media_player_error_title">"Det går inte att spela upp video"</string>
+    <string name="media_player_loading_video">"Videon läses in"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Casta"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Sluta casta"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-sv/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Det gick inte att starta profileraren"</string>
+    <string name="profiler_no_storage_toast">"Det går inte att starta profileraren eftersom den externa lagringsplatsen inte är klar"</string>
+    <string name="profiler_started_toast">"Profileraren har startats"</string>
+    <string name="profiler_stopped_toast">"Profileringen är klar. Resultaten finns i %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>

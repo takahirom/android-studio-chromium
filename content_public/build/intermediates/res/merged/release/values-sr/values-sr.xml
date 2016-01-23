@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Дели са"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Дели са апликацијом %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Скупи"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-sr/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Дели"</string>
+    <string name="actionbar_textselection_title">"Избор текста"</string>
+    <string name="actionbar_web_search">"Веб-претрага"</string>
+    <string name="media_player_error_button">"Потврди"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Жао нам је, овај видео није погодан за стриминг на овом уређају."</string>
+    <string name="media_player_error_text_unknown">"Жао нам је, није могуће пустити овај видео."</string>
+    <string name="media_player_error_title">"Није могуће пустити видео"</string>
+    <string name="media_player_loading_video">"Учитавање видеа"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-sr/values-sr.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Пребацивање"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Заустави пребацивање"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Систем"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Уређаји"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-sr/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Покретање програма за оптимизацију није успело"</string>
+    <string name="profiler_no_storage_toast">"Није могуће покренути програм за оптимизацију зато што спољна меморија није спремна"</string>
+    <string name="profiler_started_toast">"Програм за оптимизацију је покренут"</string>
+    <string name="profiler_stopped_toast">"Програм за оптимизацију је завршио. Резултати су у датотеци %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-sr/values-sr.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>

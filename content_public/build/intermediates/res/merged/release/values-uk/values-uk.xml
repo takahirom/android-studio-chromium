@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-uk/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Надіслати"</string>
+    <string name="actionbar_textselection_title">"Виділення тексту"</string>
+    <string name="actionbar_web_search">"Веб-пошук"</string>
+    <string name="media_player_error_button">"ОК"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"На жаль, це відео неможливо транслювати на цьому пристрої."</string>
+    <string name="media_player_error_text_unknown">"На жаль, це відео неможливо відтворити."</string>
+    <string name="media_player_error_title">"Не вдається відтворити відео"</string>
+    <string name="media_player_loading_video">"Завантаж. відео"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-uk/values-uk.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Транслювати"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Припинити трансляцію"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Система"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Пристрої"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-uk/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Помилка запуску профілювальника"</string>
+    <string name="profiler_no_storage_toast">"Неможливо запустити профілювальник, оскільки зовнішня пам’ять не готова"</string>
+    <string name="profiler_started_toast">"Профілювальник запущено"</string>
+    <string name="profiler_stopped_toast">"Профілювальник закінчив роботу. Результати у файлі %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-uk/values-uk.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>

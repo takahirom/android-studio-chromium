@@ -21,6 +21,16 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-hr/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Podijeli"</string>
+    <string name="actionbar_textselection_title">"Odabir teksta"</string>
+    <string name="actionbar_web_search">"Pretraživanje weba"</string>
+    <string name="media_player_error_button">"U redu"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Videozapis nije valjan za strujanje na uređaj."</string>
+    <string name="media_player_error_text_unknown">"Nije moguće reproducirati taj videozapis."</string>
+    <string name="media_player_error_title">"Nije moguće reprod. videozapis"</string>
+    <string name="media_player_loading_video">"Učitavanje videa"</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.1.0/res/values-hr/values-hr.xml -->
     <eat-comment/>
     <string msgid="4324764887951330391" name="mr_button_content_description">"Emitiranje"</string>
@@ -38,6 +48,12 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Zaustavi emitiranje"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sustav"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Uređaji"</string>
+    <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/res/values-hr/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Nije uspjelo pokretanje profilera"</string>
+    <string name="profiler_no_storage_toast">"Nije moguće pokrenuti profiler jer vanjska pohrana nije spremna"</string>
+    <string name="profiler_started_toast">"Profiler se pokrenuo"</string>
+    <string name="profiler_stopped_toast">"Profiler je završio. Rezultati su u datoteci %1$s."</string>
     <!-- From: file:/home/takahirom/AndroidStudioProjects/Chromium/content_public/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-hr/values-hr.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
