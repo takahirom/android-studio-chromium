@@ -1,0 +1,36 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/base_java_unittest_support.dex.jar"
+  ], 
+  "files-md5": "ca894efc564b9183226e7b7bbe693169", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/base_java_unittest_support.jar", 
+      "tag": "bd630048c31bec2fb27fa89f3befba37", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/base/TestUiThread$1.class", 
+          "tag": 4024066975
+        }, 
+        {
+          "path": "org/chromium/base/ContentUriTestUtils.class", 
+          "tag": 2133577307
+        }, 
+        {
+          "path": "org/chromium/base/TestUiThread.class", 
+          "tag": 4272280861
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "ff732cd70d619c1f3123c0aabcfe41d8"
+}

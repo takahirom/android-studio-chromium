@@ -1,0 +1,44 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/gif_player_java.dex.jar"
+  ], 
+  "files-md5": "71ba937539587c61f46f6f772d2e754c", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/gif_player_java.jar", 
+      "tag": "44e6b55ed5f2fef2b44350df7fea6744", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "jp/tomorrowkey/android/gifplayer/BaseGifImage$1.class", 
+          "tag": 3969662264
+        }, 
+        {
+          "path": "jp/tomorrowkey/android/gifplayer/BaseGifImage$GifHeaderStream.class", 
+          "tag": 2747384872
+        }, 
+        {
+          "path": "jp/tomorrowkey/android/gifplayer/BaseGifImage.class", 
+          "tag": 4001530698
+        }, 
+        {
+          "path": "jp/tomorrowkey/android/gifplayer/BaseGifDrawable.class", 
+          "tag": 3449369636
+        }, 
+        {
+          "path": "jp/tomorrowkey/android/gifplayer/BaseGifDrawable$DecoderThread.class", 
+          "tag": 1422368484
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "c5e478ec8883cc26846f5832bb0d0e25"
+}

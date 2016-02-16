@@ -1,0 +1,21 @@
+{
+  "input-strings": [
+    "javac", 
+    "-g", 
+    "-encoding", 
+    "UTF-8", 
+    "-classpath", 
+    "", 
+    "-sourcepath", 
+    "", 
+    "-XDignore.symbol.file"
+  ], 
+  "files-md5": "66b77be7f338caefff9e3e6270af648a", 
+  "input-files": [
+    {
+      "path": "rezip/RezipApk.java", 
+      "tag": "8ee6b298fe1abdd879ceb5320c44a07e"
+    }
+  ], 
+  "strings-md5": "2a3b937528153faaeae1e9ea006fb125"
+}

@@ -1,0 +1,8 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/google_play_services_default_javalib.jar!/android/UnusedStub.class
+public final class android.UnusedStub
+  SourceFile: "UnusedStub.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

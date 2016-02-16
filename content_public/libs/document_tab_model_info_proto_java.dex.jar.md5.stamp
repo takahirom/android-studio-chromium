@@ -1,0 +1,36 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/document_tab_model_info_proto_java.dex.jar"
+  ], 
+  "files-md5": "f33b9784902d405ff3f388465768cb3c", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/document_tab_model_info_proto_java.jar", 
+      "tag": "6a09557027f398e72a6b935f0e1ad9df", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo.class", 
+          "tag": 421548337
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo$DocumentEntry.class", 
+          "tag": 3648091358
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo$DocumentList.class", 
+          "tag": 1255723883
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "446ec314dce84fb5eb1083cdbcd07e01"
+}

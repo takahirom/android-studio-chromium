@@ -1,0 +1,25 @@
+{
+  "input-strings": [], 
+  "files-md5": "d3c7ab0c5e336da63de36ad76ee81dab", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/bookmarks_java.jar", 
+      "tag": "c15621b0b00eba7af61e198eaa5db7ae", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/bookmarks/BookmarkId.class", 
+          "tag": 2363352453
+        }, 
+        {
+          "path": "org/chromium/components/bookmarks/BookmarkType.class", 
+          "tag": 930453409
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

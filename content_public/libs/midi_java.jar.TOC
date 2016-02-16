@@ -1,0 +1,104 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/UsbMidiDeviceAndroid.class
+class org.chromium.media.midi.UsbMidiDeviceAndroid
+  SourceFile: "UsbMidiDeviceAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/UsbMidiDeviceFactoryAndroid.class
+class org.chromium.media.midi.UsbMidiDeviceFactoryAndroid
+  SourceFile: "UsbMidiDeviceFactoryAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiManagerAndroid.class
+class org.chromium.media.midi.MidiManagerAndroid
+  SourceFile: "MidiManagerAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/UsbMidiDeviceAndroid$2.class
+class org.chromium.media.midi.UsbMidiDeviceAndroid$2 implements java.lang.Runnable
+  SourceFile: "UsbMidiDeviceAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiManagerAndroid$2.class
+class org.chromium.media.midi.MidiManagerAndroid$2 implements java.lang.Runnable
+  SourceFile: "MidiManagerAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/UsbMidiDeviceAndroid$1.class
+class org.chromium.media.midi.UsbMidiDeviceAndroid$1 extends java.lang.Thread
+  SourceFile: "UsbMidiDeviceAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/UsbMidiDeviceFactoryAndroid$1.class
+class org.chromium.media.midi.UsbMidiDeviceFactoryAndroid$1 extends android.content.BroadcastReceiver
+  SourceFile: "UsbMidiDeviceFactoryAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiManagerAndroid$3.class
+class org.chromium.media.midi.MidiManagerAndroid$3 implements android.media.midi.MidiManager$OnDeviceOpenedListener
+  SourceFile: "MidiManagerAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiInputPortAndroid$1.class
+class org.chromium.media.midi.MidiInputPortAndroid$1 extends android.media.midi.MidiReceiver
+  SourceFile: "MidiInputPortAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiDeviceAndroid.class
+class org.chromium.media.midi.MidiDeviceAndroid
+  SourceFile: "MidiDeviceAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiInputPortAndroid.class
+class org.chromium.media.midi.MidiInputPortAndroid
+  SourceFile: "MidiInputPortAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiManagerAndroid$1.class
+class org.chromium.media.midi.MidiManagerAndroid$1 extends android.media.midi.MidiManager$DeviceCallback
+  SourceFile: "MidiManagerAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/midi_java.jar!/org/chromium/media/midi/MidiOutputPortAndroid.class
+class org.chromium.media.midi.MidiOutputPortAndroid
+  SourceFile: "MidiOutputPortAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

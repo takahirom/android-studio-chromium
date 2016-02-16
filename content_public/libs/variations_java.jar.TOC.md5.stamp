@@ -1,0 +1,21 @@
+{
+  "input-strings": [], 
+  "files-md5": "06b74c5540aeb4c1e80a2cbd3d54ea3b", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/variations_java.jar", 
+      "tag": "fcab3e6e908c13886ecadd919d626d4b", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/variations/VariationsAssociatedData.class", 
+          "tag": 567367836
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

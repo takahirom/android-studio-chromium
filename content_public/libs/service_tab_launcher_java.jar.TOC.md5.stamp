@@ -1,0 +1,21 @@
+{
+  "input-strings": [], 
+  "files-md5": "60c9ab68acd197560e06889605072be8", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/service_tab_launcher_java.jar", 
+      "tag": "cc8f82c774df7c4d187bcb26c6bc1bb2", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/service_tab_launcher/ServiceTabLauncher.class", 
+          "tag": 963568841
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

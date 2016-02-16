@@ -1,0 +1,28 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/service_tab_launcher_java.dex.jar"
+  ], 
+  "files-md5": "60c9ab68acd197560e06889605072be8", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/service_tab_launcher_java.jar", 
+      "tag": "cc8f82c774df7c4d187bcb26c6bc1bb2", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/service_tab_launcher/ServiceTabLauncher.class", 
+          "tag": 963568841
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "13f2eed81466f9b48fa08e55c66eac50"
+}

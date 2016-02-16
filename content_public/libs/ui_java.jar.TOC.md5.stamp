@@ -1,0 +1,529 @@
+{
+  "input-strings": [], 
+  "files-md5": "d2b4bbdd5887960073e226b102965160", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/ui_java.jar", 
+      "tag": "a16cd6686a26bc87b437597199f03d8f", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor$1.class", 
+          "tag": 3540733
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerDialog$2.class", 
+          "tag": 416641702
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerDialog$3.class", 
+          "tag": 4070273867
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor$2.class", 
+          "tag": 907859904
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerDialog$1.class", 
+          "tag": 1790469251
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerDialog$4.class", 
+          "tag": 1470005320
+        }, 
+        {
+          "path": "org/chromium/ui/UiUtils.class", 
+          "tag": 2087022242
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindow$1.class", 
+          "tag": 1292926104
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor$Listener.class", 
+          "tag": 1360301443
+        }, 
+        {
+          "path": "org/chromium/ui/ColorSuggestionListAdapter.class", 
+          "tag": 192297597
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerAdvanced.class", 
+          "tag": 548693854
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerMoreButton.class", 
+          "tag": 239848492
+        }, 
+        {
+          "path": "org/chromium/ui/UiUtils$KeyboardShowingDelegate.class", 
+          "tag": 3219020621
+        }, 
+        {
+          "path": "org/chromium/ui/OnColorChangedListener.class", 
+          "tag": 3580329224
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerDialog.class", 
+          "tag": 686352943
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownAdapter.class", 
+          "tag": 222499158
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownDividerDrawable.class", 
+          "tag": 2607090587
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindow$2.class", 
+          "tag": 2118723306
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownItem.class", 
+          "tag": 2709154094
+        }, 
+        {
+          "path": "org/chromium/ui/UiUtils$1.class", 
+          "tag": 271593548
+        }, 
+        {
+          "path": "org/chromium/ui/WindowOpenDisposition.class", 
+          "tag": 2718273607
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerSimple.class", 
+          "tag": 3226137213
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindow.class", 
+          "tag": 1094203310
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor.class", 
+          "tag": 3532853926
+        }, 
+        {
+          "path": "org/chromium/ui/ColorSuggestion.class", 
+          "tag": 1417846032
+        }, 
+        {
+          "path": "org/chromium/ui/ColorPickerAdvancedComponent.class", 
+          "tag": 4241989820
+        }, 
+        {
+          "path": "org/chromium/ui/ColorSuggestionListAdapter$OnColorSuggestionClickListener.class", 
+          "tag": 4105142551
+        }, 
+        {
+          "path": "org/chromium/ui/gl/SurfaceTexturePlatformWrapper.class", 
+          "tag": 3267283363
+        }, 
+        {
+          "path": "org/chromium/ui/gl/SurfaceTextureListener.class", 
+          "tag": 556900492
+        }, 
+        {
+          "path": "org/chromium/ui/picker/TwoFieldDatePicker$OnMonthOrWeekChangedListener.class", 
+          "tag": 4272957054
+        }, 
+        {
+          "path": "org/chromium/ui/picker/MultiFieldTimePickerDialog.class", 
+          "tag": 2469991317
+        }, 
+        {
+          "path": "org/chromium/ui/picker/DateTimeSuggestion.class", 
+          "tag": 1245452570
+        }, 
+        {
+          "path": "org/chromium/ui/picker/TwoFieldDatePicker.class", 
+          "tag": 2759702340
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$4.class", 
+          "tag": 1085883434
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$DateListener.class", 
+          "tag": 1150362777
+        }, 
+        {
+          "path": "org/chromium/ui/picker/DateTimeSuggestionListAdapter.class", 
+          "tag": 1836985270
+        }, 
+        {
+          "path": "org/chromium/ui/picker/WeekPickerDialog.class", 
+          "tag": 1266902853
+        }, 
+        {
+          "path": "org/chromium/ui/picker/MonthPicker.class", 
+          "tag": 3811685434
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$MonthOrWeekListener.class", 
+          "tag": 4001476137
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$5.class", 
+          "tag": 3532914676
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$DateTimeListener.class", 
+          "tag": 3420627387
+        }, 
+        {
+          "path": "org/chromium/ui/picker/DateTimePickerDialog$OnDateTimeSetListener.class", 
+          "tag": 479354187
+        }, 
+        {
+          "path": "org/chromium/ui/picker/MonthPickerDialog.class", 
+          "tag": 2228352902
+        }, 
+        {
+          "path": "org/chromium/ui/picker/MultiFieldTimePickerDialog$NumberFormatter.class", 
+          "tag": 3238250256
+        }, 
+        {
+          "path": "org/chromium/ui/picker/MultiFieldTimePickerDialog$OnMultiFieldTimeSetListener.class", 
+          "tag": 2057873636
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$FullTimeListener.class", 
+          "tag": 381587871
+        }, 
+        {
+          "path": "org/chromium/ui/picker/WeekPicker.class", 
+          "tag": 774745145
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer.class", 
+          "tag": 2717312161
+        }, 
+        {
+          "path": "org/chromium/ui/picker/DateTimePickerDialog.class", 
+          "tag": 3379068413
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$1.class", 
+          "tag": 3344182458
+        }, 
+        {
+          "path": "org/chromium/ui/picker/TwoFieldDatePickerDialog.class", 
+          "tag": 2062880487
+        }, 
+        {
+          "path": "org/chromium/ui/picker/TwoFieldDatePicker$1.class", 
+          "tag": 109082403
+        }, 
+        {
+          "path": "org/chromium/ui/picker/DateDialogNormalizer.class", 
+          "tag": 4232073019
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$2.class", 
+          "tag": 3809536962
+        }, 
+        {
+          "path": "org/chromium/ui/picker/TwoFieldDatePickerDialog$OnValueSetListener.class", 
+          "tag": 2999753321
+        }, 
+        {
+          "path": "org/chromium/ui/picker/ChromeDatePickerDialog.class", 
+          "tag": 2015579618
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$InputActionDelegate.class", 
+          "tag": 934141933
+        }, 
+        {
+          "path": "org/chromium/ui/picker/InputDialogContainer$3.class", 
+          "tag": 96006146
+        }, 
+        {
+          "path": "org/chromium/ui/autofill/AutofillSuggestion.class", 
+          "tag": 4178081464
+        }, 
+        {
+          "path": "org/chromium/ui/autofill/AutofillKeyboardAccessory.class", 
+          "tag": 2979574518
+        }, 
+        {
+          "path": "org/chromium/ui/autofill/AutofillDelegate.class", 
+          "tag": 164261722
+        }, 
+        {
+          "path": "org/chromium/ui/autofill/AutofillPopup.class", 
+          "tag": 2168836989
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog$GetDisplayNameTask.class", 
+          "tag": 172231146
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$IntentCallback.class", 
+          "tag": 2534068134
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$TouchExplorationMonitor$1.class", 
+          "tag": 3389319510
+        }, 
+        {
+          "path": "org/chromium/ui/base/AndroidPermissionDelegate.class", 
+          "tag": 1318286971
+        }, 
+        {
+          "path": "org/chromium/ui/base/Clipboard.class", 
+          "tag": 1587701553
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$2.class", 
+          "tag": 3399892397
+        }, 
+        {
+          "path": "org/chromium/ui/base/ResourceBundle.class", 
+          "tag": 3399144529
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityWindowAndroid$1.class", 
+          "tag": 2805604411
+        }, 
+        {
+          "path": "org/chromium/ui/base/PageTransition.class", 
+          "tag": 4091263623
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid.class", 
+          "tag": 2934827370
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityWindowAndroid$ActivityAndroidPermissionDelegate$1.class", 
+          "tag": 1111682118
+        }, 
+        {
+          "path": "org/chromium/ui/base/DeviceFormFactor.class", 
+          "tag": 1380099937
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$PermissionCallback.class", 
+          "tag": 4170853676
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityWindowAndroid$ActivityAndroidPermissionDelegate.class", 
+          "tag": 3747921880
+        }, 
+        {
+          "path": "org/chromium/ui/base/PointerType.class", 
+          "tag": 2237665710
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog.class", 
+          "tag": 3126836661
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$1.class", 
+          "tag": 219709549
+        }, 
+        {
+          "path": "org/chromium/ui/base/LocalizationUtils.class", 
+          "tag": 4110040974
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$KeyboardVisibilityListener.class", 
+          "tag": 2492018631
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityWindowAndroid.class", 
+          "tag": 2353785309
+        }, 
+        {
+          "path": "org/chromium/ui/base/ViewAndroidDelegate.class", 
+          "tag": 3047101204
+        }, 
+        {
+          "path": "org/chromium/ui/base/HoverType.class", 
+          "tag": 531776245
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$TouchExplorationMonitor.class", 
+          "tag": 1431256373
+        }, 
+        {
+          "path": "org/chromium/ui/base/TouchDevice.class", 
+          "tag": 4130504776
+        }, 
+        {
+          "path": "org/chromium/ui/base/ime/TextInputType.class", 
+          "tag": 2452640844
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceManager.class", 
+          "tag": 3938360429
+        }, 
+        {
+          "path": "org/chromium/ui/resources/SystemUIResourceType.class", 
+          "tag": 1276439161
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceLoader$ResourceLoaderCallback.class", 
+          "tag": 3574976043
+        }, 
+        {
+          "path": "org/chromium/ui/resources/Resource.class", 
+          "tag": 220991898
+        }, 
+        {
+          "path": "org/chromium/ui/resources/LayoutResource.class", 
+          "tag": 4260200348
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceLoader.class", 
+          "tag": 295970407
+        }, 
+        {
+          "path": "org/chromium/ui/resources/AndroidResourceType.class", 
+          "tag": 3488920756
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/StaticResourceLoader$1.class", 
+          "tag": 1314401177
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/StaticResource.class", 
+          "tag": 3386663154
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/NinePatchData.class", 
+          "tag": 2491848180
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/StaticResourceLoader.class", 
+          "tag": 405349573
+        }, 
+        {
+          "path": "org/chromium/ui/resources/sprites/CrushedSpriteResource.class", 
+          "tag": 2498263371
+        }, 
+        {
+          "path": "org/chromium/ui/resources/sprites/CrushedSpriteResourceLoader.class", 
+          "tag": 3881055945
+        }, 
+        {
+          "path": "org/chromium/ui/resources/async/AsyncPreloadResourceLoader$AsyncLoadTask.class", 
+          "tag": 491506846
+        }, 
+        {
+          "path": "org/chromium/ui/resources/async/AsyncPreloadResourceLoader.class", 
+          "tag": 3277308515
+        }, 
+        {
+          "path": "org/chromium/ui/resources/async/AsyncPreloadResourceLoader$ResourceCreator.class", 
+          "tag": 3265361680
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/DynamicResource.class", 
+          "tag": 1858908661
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater$1.class", 
+          "tag": 4239435850
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater.class", 
+          "tag": 1508044088
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceAdapter.class", 
+          "tag": 3644542335
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/BitmapDynamicResource.class", 
+          "tag": 4265855366
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/DynamicResourceLoader.class", 
+          "tag": 397459020
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater$ViewInflaterOnDrawListener.class", 
+          "tag": 2486287295
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater$ViewInflaterAdapter.class", 
+          "tag": 38208808
+        }, 
+        {
+          "path": "org/chromium/ui/resources/system/SystemResourceLoader$1.class", 
+          "tag": 582638911
+        }, 
+        {
+          "path": "org/chromium/ui/resources/system/SystemResourceLoader.class", 
+          "tag": 1677754483
+        }, 
+        {
+          "path": "org/chromium/ui/widget/Toast.class", 
+          "tag": 3664628326
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans$2.class", 
+          "tag": 238528730
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans$1.class", 
+          "tag": 2714678956
+        }, 
+        {
+          "path": "org/chromium/ui/widget/ButtonCompat.class", 
+          "tag": 1829701206
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans.class", 
+          "tag": 3601563843
+        }, 
+        {
+          "path": "org/chromium/ui/widget/Toast$1.class", 
+          "tag": 1759839467
+        }, 
+        {
+          "path": "org/chromium/ui/interpolators/BakedBezierInterpolator.class", 
+          "tag": 2453568038
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/ViewConfigurationHelper$1.class", 
+          "tag": 1000815365
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapHelper.class", 
+          "tag": 2732668967
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/ViewConfigurationHelper.class", 
+          "tag": 3252940560
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapFormat.class", 
+          "tag": 3264886130
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapHelper$1.class", 
+          "tag": 658801310
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/DeviceDisplayInfo.class", 
+          "tag": 1170516830
+        }, 
+        {
+          "path": "org/chromium/ui/text/SpanApplier$SpanInfo.class", 
+          "tag": 870515478
+        }, 
+        {
+          "path": "org/chromium/ui/text/SpanApplier.class", 
+          "tag": 4082510833
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

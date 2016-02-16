@@ -1,0 +1,24 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/precache_java.jar!/org/chromium/components/precache/NetworkInfoDelegateFactory.class
+public class org.chromium.components.precache.NetworkInfoDelegateFactory
+  SourceFile: "NetworkInfoDelegateFactory.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/precache_java.jar!/org/chromium/components/precache/DeviceState.class
+public class org.chromium.components.precache.DeviceState
+  SourceFile: "DeviceState.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/precache_java.jar!/org/chromium/components/precache/NetworkInfoDelegate.class
+public class org.chromium.components.precache.NetworkInfoDelegate
+  SourceFile: "NetworkInfoDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

@@ -1,0 +1,72 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReceiver$FailCallback.class
+public interface org.chromium.test.reporter.TestStatusReceiver$FailCallback
+  SourceFile: "TestStatusReceiver.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReceiver$StartCallback.class
+public interface org.chromium.test.reporter.TestStatusReceiver$StartCallback
+  SourceFile: "TestStatusReceiver.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReceiver.class
+public class org.chromium.test.reporter.TestStatusReceiver extends android.content.BroadcastReceiver
+  SourceFile: "TestStatusReceiver.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusListener.class
+public class org.chromium.test.reporter.TestStatusListener implements junit.framework.TestListener
+  SourceFile: "TestStatusListener.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReporter.class
+public class org.chromium.test.reporter.TestStatusReporter
+  SourceFile: "TestStatusReporter.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReporter$1.class
+class org.chromium.test.reporter.TestStatusReporter$1 implements java.lang.Runnable
+  SourceFile: "TestStatusReporter.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReceiver$PassCallback.class
+public interface org.chromium.test.reporter.TestStatusReceiver$PassCallback
+  SourceFile: "TestStatusReceiver.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReceiver$HeartbeatCallback.class
+public interface org.chromium.test.reporter.TestStatusReceiver$HeartbeatCallback
+  SourceFile: "TestStatusReceiver.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/reporter_java.jar!/org/chromium/test/reporter/TestStatusReceiver$TestRunCallback.class
+public interface org.chromium.test.reporter.TestStatusReceiver$TestRunCallback
+  SourceFile: "TestStatusReceiver.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

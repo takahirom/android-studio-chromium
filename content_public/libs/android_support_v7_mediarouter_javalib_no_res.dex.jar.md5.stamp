@@ -1,0 +1,604 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/android_support_v7_mediarouter_javalib_no_res.dex.jar"
+  ], 
+  "files-md5": "31a1b38140c8757bf2acb792e5f9e265", 
+  "input-files": [
+    {
+      "path": "/home/takahirom/chromium/src/third_party/android_tools/sdk//extras/android/support/v7/mediarouter/libs/android-support-v7-mediarouter.jar", 
+      "tag": "eee250d7d1eca6ac90260557003bc3d5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2305920183
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$IsConnectingWorkaround.class", 
+          "tag": 2842078232
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$ReceiveHandler.class", 
+          "tag": 1625547952
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$Callback.class", 
+          "tag": 2726650788
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$Controller.class", 
+          "tag": 678975696
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$JellybeanImpl$SystemRouteRecord.class", 
+          "tag": 1163204219
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$1.class", 
+          "tag": 3789180491
+        }, 
+        {
+          "path": "android/support/v7/media/RemoteControlClientCompat.class", 
+          "tag": 1657732736
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$CallbackHandler.class", 
+          "tag": 832266545
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProviderWatcher$Callback.class", 
+          "tag": 4016703820
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$RouteInfo$PlaybackType.class", 
+          "tag": 245020058
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$1.class", 
+          "tag": 2807460472
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$CallbackProxy.class", 
+          "tag": 3920584108
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$VolumeCallbackProxy.class", 
+          "tag": 1546826175
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$Connection.class", 
+          "tag": 1125386199
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr2.class", 
+          "tag": 3269400589
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$MediaSessionRecord$1$2.class", 
+          "tag": 231108063
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteDiscoveryRequest.class", 
+          "tag": 1756586685
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$Callback.class", 
+          "tag": 4059713124
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter.class", 
+          "tag": 1591621041
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$RouteGroup.class", 
+          "tag": 2286122002
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProvider$1.class", 
+          "tag": 1492455179
+        }, 
+        {
+          "path": "android/support/v7/media/RemoteControlClientCompat$VolumeCallback.class", 
+          "tag": 1220844730
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$JellybeanImpl.class", 
+          "tag": 3897477685
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$SessionActionCallback.class", 
+          "tag": 3658776239
+        }, 
+        {
+          "path": "android/support/v7/media/MediaItemStatus$Builder.class", 
+          "tag": 4069221784
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$CallbackProxy.class", 
+          "tag": 601731841
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$RouteInfo.class", 
+          "tag": 663147655
+        }, 
+        {
+          "path": "android/support/v7/media/MediaItemMetadata.class", 
+          "tag": 992534117
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProviderWatcher$1.class", 
+          "tag": 3891067957
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$CallbackRecord.class", 
+          "tag": 18351577
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderService$ProviderCallback.class", 
+          "tag": 1580645988
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$1.class", 
+          "tag": 1456707910
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider.class", 
+          "tag": 1552636116
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$RouteGroup.class", 
+          "tag": 820444431
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProvider$ProviderHandler.class", 
+          "tag": 1411901507
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$LegacyImpl$DefaultRouteController.class", 
+          "tag": 2793837225
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteDescriptor$1.class", 
+          "tag": 3318206212
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$RemoteControlClientRecord.class", 
+          "tag": 206480257
+        }, 
+        {
+          "path": "android/support/v7/media/RemoteControlClientCompat$LegacyImpl.class", 
+          "tag": 587337213
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderService$1.class", 
+          "tag": 2765939220
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteSelector$Builder.class", 
+          "tag": 2278405016
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteDescriptor.class", 
+          "tag": 116097923
+        }, 
+        {
+          "path": "android/support/v7/media/MediaItemStatus$1.class", 
+          "tag": 3056898232
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$ActionCallback.class", 
+          "tag": 2770786039
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$MediaSessionRecord.class", 
+          "tag": 212706205
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderProtocol.class", 
+          "tag": 4213266624
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr2$RouteInfo.class", 
+          "tag": 1173467335
+        }, 
+        {
+          "path": "android/support/v7/media/RemoteControlClientCompat$PlaybackInfo.class", 
+          "tag": 539568067
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProviderWatcher$2.class", 
+          "tag": 2334428957
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient.class", 
+          "tag": 3477129400
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProviderWatcher.class", 
+          "tag": 2805438074
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$LegacyImpl$VolumeChangeReceiver.class", 
+          "tag": 3559261296
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider.class", 
+          "tag": 3747754936
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$1.class", 
+          "tag": 3689215893
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$RouteInfo.class", 
+          "tag": 3374611138
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$StatusCallback.class", 
+          "tag": 3396381340
+        }, 
+        {
+          "path": "android/support/v7/media/RemoteControlClientCompat$JellybeanImpl.class", 
+          "tag": 4225104994
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderService$PrivateHandler.class", 
+          "tag": 3524170564
+        }, 
+        {
+          "path": "android/support/v7/media/MediaSessionStatus$1.class", 
+          "tag": 2291326760
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$CallbackFlags.class", 
+          "tag": 674752764
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderService.class", 
+          "tag": 2874457910
+        }, 
+        {
+          "path": "android/support/v7/media/MediaControlIntent.class", 
+          "tag": 2363779256
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1.class", 
+          "tag": 935301416
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$RouteInfo$PlaybackVolume.class", 
+          "tag": 470305972
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProvider.class", 
+          "tag": 688715976
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$SyncCallback.class", 
+          "tag": 3980516959
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$MediaSessionRecord$1.class", 
+          "tag": 4226943731
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr2$UserRouteInfo.class", 
+          "tag": 499122076
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteDescriptor$Builder.class", 
+          "tag": 3513244447
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$ActiveScanWorkaround.class", 
+          "tag": 485024319
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$RouteCategory.class", 
+          "tag": 1222486869
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$LegacyImpl.class", 
+          "tag": 4134015078
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$ControlRequestCallback.class", 
+          "tag": 1964453713
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$ProviderInfo.class", 
+          "tag": 1094135254
+        }, 
+        {
+          "path": "android/support/v7/media/MediaSessionStatus$Builder.class", 
+          "tag": 1874588678
+        }, 
+        {
+          "path": "android/support/v7/media/MediaItemStatus.class", 
+          "tag": 134197743
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderDescriptor$Builder.class", 
+          "tag": 3137673186
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter.class", 
+          "tag": 3052512766
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderService$ClientRecord.class", 
+          "tag": 3101954264
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$JellybeanMr2Impl.class", 
+          "tag": 4241849373
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderService$ReceiveHandler.class", 
+          "tag": 1166625563
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$UserRouteInfo.class", 
+          "tag": 2771102480
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$GetDefaultRouteWorkaround.class", 
+          "tag": 3632925969
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$SelectRouteWorkaround.class", 
+          "tag": 3351260445
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean.class", 
+          "tag": 582003670
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProvider$Callback.class", 
+          "tag": 2956878453
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$RouteInfo.class", 
+          "tag": 1375817921
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$JellybeanMr1Impl.class", 
+          "tag": 3940781960
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$MediaSessionRecord$1$1.class", 
+          "tag": 3374364502
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$JellybeanImpl$SystemRouteController.class", 
+          "tag": 3367708292
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$Connection$1.class", 
+          "tag": 2269120407
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$PrivateHandler.class", 
+          "tag": 4119906465
+        }, 
+        {
+          "path": "android/support/v7/media/RegisteredMediaRouteProvider$Connection$2.class", 
+          "tag": 2006981343
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$Callback.class", 
+          "tag": 2518599280
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$RouteInfo$ConnectionState.class", 
+          "tag": 4194205837
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderDescriptor.class", 
+          "tag": 1014957688
+        }, 
+        {
+          "path": "android/support/v7/media/RemoteControlClientCompat$JellybeanImpl$VolumeCallbackWrapper.class", 
+          "tag": 621563244
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$2.class", 
+          "tag": 1081197351
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$VolumeCallback.class", 
+          "tag": 3295950709
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteSelector$1.class", 
+          "tag": 18722476
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$RouteInfo$DeviceType.class", 
+          "tag": 1281774551
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProviderDescriptor$1.class", 
+          "tag": 3745592881
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouter$GlobalMediaRouter$ProviderCallback.class", 
+          "tag": 1591673696
+        }, 
+        {
+          "path": "android/support/v7/media/MediaSessionStatus.class", 
+          "tag": 2804071721
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$ItemActionCallback.class", 
+          "tag": 3544666442
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteSelector.class", 
+          "tag": 2882432505
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProvider$ProviderMetadata.class", 
+          "tag": 3439056338
+        }, 
+        {
+          "path": "android/support/v7/media/RemotePlaybackClient$StatusReceiver.class", 
+          "tag": 4261938242
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouteProvider$RouteController.class", 
+          "tag": 3417886376
+        }, 
+        {
+          "path": "android/support/v7/media/SystemMediaRouteProvider$JellybeanImpl$UserRouteRecord.class", 
+          "tag": 614300386
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$4.class", 
+          "tag": 3168817248
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$6.class", 
+          "tag": 3855246654
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteButton.class", 
+          "tag": 3804076799
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteButton$MediaRouterCallback.class", 
+          "tag": 1640303028
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteChooserDialog$RouteAdapter.class", 
+          "tag": 858662515
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteDiscoveryFragment.class", 
+          "tag": 3045404588
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouterThemeHelper.class", 
+          "tag": 240754234
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteActionProvider$MediaRouterCallback.class", 
+          "tag": 1808526055
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$ClickListener.class", 
+          "tag": 40250997
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteVolumeSlider.class", 
+          "tag": 2885380794
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteActionProvider.class", 
+          "tag": 2814170487
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$VolumeChangeListener.class", 
+          "tag": 816536997
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteChooserDialogFragment.class", 
+          "tag": 3094295789
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteChooserDialog$MediaRouterCallback.class", 
+          "tag": 3991801056
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog.class", 
+          "tag": 452735094
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$2.class", 
+          "tag": 2041514433
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteButton$1.class", 
+          "tag": 2224881556
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$MediaRouterCallback.class", 
+          "tag": 1962756274
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$FetchArtTask.class", 
+          "tag": 1325756694
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteChooserDialog$1.class", 
+          "tag": 3582015777
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteChooserDialog$RouteComparator.class", 
+          "tag": 772515654
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteDialogFactory.class", 
+          "tag": 2597475834
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteExpandCollapseButton$1.class", 
+          "tag": 1501148658
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouterThemeHelper$ControllerColorType.class", 
+          "tag": 3436319338
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteExpandCollapseButton.class", 
+          "tag": 762647053
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteChooserDialog.class", 
+          "tag": 957690414
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteDiscoveryFragment$1.class", 
+          "tag": 4004092501
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$MediaControllerCallback.class", 
+          "tag": 2309202139
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialogFragment.class", 
+          "tag": 3004010058
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteDialogHelper.class", 
+          "tag": 156701593
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$5.class", 
+          "tag": 1426533536
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$VolumeGroupAdapter.class", 
+          "tag": 871518191
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$3.class", 
+          "tag": 1208426773
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$1.class", 
+          "tag": 3723071360
+        }, 
+        {
+          "path": "android/support/v7/app/MediaRouteControllerDialog$VolumeChangeListener$1.class", 
+          "tag": 3327107148
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "f9a5ac142e02024860dcb9278f4dcd43"
+}

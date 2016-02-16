@@ -1,0 +1,53 @@
+{
+  "input-strings": [], 
+  "files-md5": "6d3c2384352c75fd6157fef63ed78b4c", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/reporter_java.jar", 
+      "tag": "8c534e7d7688c9b879aeeb757c556059", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReceiver$FailCallback.class", 
+          "tag": 3776780666
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReceiver$StartCallback.class", 
+          "tag": 1095030894
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReceiver.class", 
+          "tag": 111467574
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusListener.class", 
+          "tag": 2817415345
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReporter.class", 
+          "tag": 2825637925
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReporter$1.class", 
+          "tag": 2759609904
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReceiver$PassCallback.class", 
+          "tag": 3639989175
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReceiver$HeartbeatCallback.class", 
+          "tag": 2120279395
+        }, 
+        {
+          "path": "org/chromium/test/reporter/TestStatusReceiver$TestRunCallback.class", 
+          "tag": 1083524501
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

@@ -1,0 +1,161 @@
+{
+  "input-strings": [], 
+  "files-md5": "72ba70bbbcd9edb49ca1cceb3503cf1e", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/mojo_public_java.jar", 
+      "tag": "eb82a957597a84cfacaaf7e5824933dc", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$WriteFlags.class", 
+          "tag": 1047347841
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$ProducerHandle.class", 
+          "tag": 3935360235
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle.class", 
+          "tag": 3294288259
+        }, 
+        {
+          "path": "org/chromium/mojo/system/ResultAnd.class", 
+          "tag": 1254002505
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$ReadFlags.class", 
+          "tag": 1256966939
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle.class", 
+          "tag": 3591599745
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$HandleSignalsState.class", 
+          "tag": 4078478691
+        }, 
+        {
+          "path": "org/chromium/mojo/system/AsyncWaiter$Cancellable.class", 
+          "tag": 1015041827
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$ConsumerHandle.class", 
+          "tag": 495987567
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$MapFlags.class", 
+          "tag": 929420991
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MojoException.class", 
+          "tag": 1234575323
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core.class", 
+          "tag": 2424890343
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$CreateOptions.class", 
+          "tag": 3490546478
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$HandleSignals.class", 
+          "tag": 3899861235
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Handle.class", 
+          "tag": 3726822384
+        }, 
+        {
+          "path": "org/chromium/mojo/system/AsyncWaiter$Callback.class", 
+          "tag": 818318198
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MojoResult.class", 
+          "tag": 3795957887
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$CreateOptions.class", 
+          "tag": 4220956519
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Flags.class", 
+          "tag": 3381380639
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$WriteFlags.class", 
+          "tag": 1679267257
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Pair.class", 
+          "tag": 1554178301
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$WaitResult.class", 
+          "tag": 3171644444
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe.class", 
+          "tag": 1831072019
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$WaitManyResult.class", 
+          "tag": 1732932018
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$ReadMessageResult.class", 
+          "tag": 2329784207
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$CreateFlags.class", 
+          "tag": 2946098476
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$CreateOptions.class", 
+          "tag": 2969516997
+        }, 
+        {
+          "path": "org/chromium/mojo/system/AsyncWaiter.class", 
+          "tag": 4195942797
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$DuplicateOptions.class", 
+          "tag": 1599569157
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$CreateFlags.class", 
+          "tag": 2516993716
+        }, 
+        {
+          "path": "org/chromium/mojo/system/InvalidHandle.class", 
+          "tag": 2131695067
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$CreateFlags.class", 
+          "tag": 3120916532
+        }, 
+        {
+          "path": "org/chromium/mojo/system/UntypedHandle.class", 
+          "tag": 1471378596
+        }, 
+        {
+          "path": "org/chromium/mojo/system/RunLoop.class", 
+          "tag": 3207025865
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$ReadFlags.class", 
+          "tag": 736262044
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$DuplicateFlags.class", 
+          "tag": 2721457429
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

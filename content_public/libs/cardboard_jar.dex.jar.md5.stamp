@@ -1,0 +1,504 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/cardboard_jar.dex.jar"
+  ], 
+  "files-md5": "4b77e7237ee1ff8ca9e2f2a293eadeae", 
+  "input-files": [
+    {
+      "path": "src/CardboardSample/libs/cardboard.jar", 
+      "tag": "9c66ecea025bb6c382bcb5ce82671bfa", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2154745584
+        }, 
+        {
+          "path": "lib/armeabi-v7a/libvrtoolkit.so", 
+          "tag": 1394624504
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils.class", 
+          "tag": 2416022201
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$InstallSettingsDialogFragment.class", 
+          "tag": 2735870678
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$InstallSettingsDialogFragment$1.class", 
+          "tag": 2888105097
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$ConfigureSettingsDialogFragment.class", 
+          "tag": 3643180239
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$ConfigureSettingsDialogFragment$1.class", 
+          "tag": 1977045079
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer.class", 
+          "tag": 1972886358
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$3.class", 
+          "tag": 2213462473
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$2.class", 
+          "tag": 3746789577
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$1.class", 
+          "tag": 3376233115
+        }, 
+        {
+          "path": "com/google/vr/cardboard/NFCUtils.class", 
+          "tag": 101780111
+        }, 
+        {
+          "path": "com/google/vr/cardboard/NFCUtils$1.class", 
+          "tag": 3743613426
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ConfigUtils.class", 
+          "tag": 1282816273
+        }, 
+        {
+          "path": "com/google/vr/cardboard/Base64Resources.class", 
+          "tag": 4127602217
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/proto/Phone.class", 
+          "tag": 2482603279
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/proto/Phone$PhoneParams.class", 
+          "tag": 2534046949
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/proto/CardboardDevice.class", 
+          "tag": 1568581225
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/proto/CardboardDevice$DeviceParams.class", 
+          "tag": 649116737
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/proto/CardboardDevice$DeviceParams$VerticalAlignmentType.class", 
+          "tag": 2823866311
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/proto/CardboardDevice$DeviceParams$ButtonType.class", 
+          "tag": 2538639048
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/Vector3d.class", 
+          "tag": 2030363266
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/So3Util.class", 
+          "tag": 453663642
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/OrientationEKF.class", 
+          "tag": 2799242963
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/Matrix3x3d.class", 
+          "tag": 945452241
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/LowPassFilter.class", 
+          "tag": 4081761694
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/GyroscopeBiasEstimator.class", 
+          "tag": 4095549278
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/internal/GyroscopeBiasEstimator$IsStaticCounter.class", 
+          "tag": 3959083155
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/SystemClock.class", 
+          "tag": 4104455084
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/SensorEventProvider.class", 
+          "tag": 3249640633
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/SensorConnection.class", 
+          "tag": 2062787136
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/SensorConnection$SensorListener.class", 
+          "tag": 61882992
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor.class", 
+          "tag": 3985416900
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor$OnCardboardNfcListener.class", 
+          "tag": 3161221960
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor$ListenerHelper.class", 
+          "tag": 2098257809
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor$ListenerHelper$2.class", 
+          "tag": 2011044982
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor$ListenerHelper$1.class", 
+          "tag": 671182360
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor$2.class", 
+          "tag": 2879649014
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/NfcSensor$1.class", 
+          "tag": 2481295476
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/MagnetSensor.class", 
+          "tag": 4227259713
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/MagnetSensor$VectorTriggerDetector.class", 
+          "tag": 698670849
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/MagnetSensor$TriggerDetector.class", 
+          "tag": 396848250
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/MagnetSensor$TriggerDetector$1.class", 
+          "tag": 3428873842
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/MagnetSensor$ThresholdTriggerDetector.class", 
+          "tag": 2355305291
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/MagnetSensor$OnCardboardTriggerListener.class", 
+          "tag": 2169215062
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/HeadTracker.class", 
+          "tag": 3323671498
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/DeviceSensorLooper.class", 
+          "tag": 1323372452
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/DeviceSensorLooper$2.class", 
+          "tag": 3817738523
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/DeviceSensorLooper$1.class", 
+          "tag": 3708930396
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/sensors/Clock.class", 
+          "tag": 2244466860
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/VolumeKeyState.class", 
+          "tag": 1342384415
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/VolumeKeyState$Handler.class", 
+          "tag": 3099418197
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/VolumeKeyState$Handler$VolumeKeys.class", 
+          "tag": 2997257332
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/Viewport.class", 
+          "tag": 4146428017
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UsedByNative.class", 
+          "tag": 3744451068
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiUtils.class", 
+          "tag": 1014638185
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiUtils$InstallSettingsDialogFragment.class", 
+          "tag": 819684833
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiUtils$InstallSettingsDialogFragment$1.class", 
+          "tag": 3132782242
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiUtils$ConfigureSettingsDialogFragment.class", 
+          "tag": 2978866808
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiUtils$ConfigureSettingsDialogFragment$1.class", 
+          "tag": 4091733517
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiLayer.class", 
+          "tag": 3571025013
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiLayer$ShaderProgram.class", 
+          "tag": 4009342749
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiLayer$SettingsButtonRenderer.class", 
+          "tag": 3332925235
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiLayer$MeshRenderer.class", 
+          "tag": 3453337316
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiLayer$AlignmentMarkerRenderer.class", 
+          "tag": 1236913933
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/UiLayer$1.class", 
+          "tag": 2240001030
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/ScreenParams.class", 
+          "tag": 3047696635
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/PhoneParams.class", 
+          "tag": 1537293334
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/PhoneParams$PpiOverride.class", 
+          "tag": 1527955786
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/PermissionUtils.class", 
+          "tag": 3916652243
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/ImplementationSelector.class", 
+          "tag": 2241529647
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/HeadTransform.class", 
+          "tag": 4208388903
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/HeadMountedDisplayManager.class", 
+          "tag": 907923023
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/HeadMountedDisplay.class", 
+          "tag": 1313414910
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/GLStateBackup.class", 
+          "tag": 1729325513
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/GLStateBackup$VertexAttributeState.class", 
+          "tag": 99717661
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/FullscreenMode.class", 
+          "tag": 3017306868
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/FullscreenMode$1.class", 
+          "tag": 3263837455
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/FullscreenMode$1$1.class", 
+          "tag": 1443507243
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/FieldOfView.class", 
+          "tag": 2416416532
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/Eye.class", 
+          "tag": 3259279990
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/Eye$Type.class", 
+          "tag": 2329281361
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DistortionRenderer.class", 
+          "tag": 985532995
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DistortionRenderer$ProgramHolderAberration.class", 
+          "tag": 2143706223
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DistortionRenderer$ProgramHolder.class", 
+          "tag": 2069917136
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DistortionRenderer$EyeViewport.class", 
+          "tag": 646907408
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DistortionRenderer$DistortionMesh.class", 
+          "tag": 533690583
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DistortionRenderer$1.class", 
+          "tag": 766654365
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/Distortion.class", 
+          "tag": 3420612927
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/DisplaySynchronizer.class", 
+          "tag": 714628607
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/Constants.class", 
+          "tag": 489120574
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/ConfigUtils.class", 
+          "tag": 1602426930
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl.class", 
+          "tag": 4063439126
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$TraceCompat.class", 
+          "tag": 2948103905
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$RendererHelper.class", 
+          "tag": 301045022
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$RendererHelper$3.class", 
+          "tag": 3371009267
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$RendererHelper$2.class", 
+          "tag": 2273057180
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$RendererHelper$1.class", 
+          "tag": 2040941910
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$9.class", 
+          "tag": 3625577541
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$8.class", 
+          "tag": 395489854
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$7.class", 
+          "tag": 786166452
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$6.class", 
+          "tag": 3743312305
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$5.class", 
+          "tag": 1565739715
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$4.class", 
+          "tag": 3036744483
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$3.class", 
+          "tag": 2047931148
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$2.class", 
+          "tag": 1797320819
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$12.class", 
+          "tag": 2490463267
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$11.class", 
+          "tag": 3495004810
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$10.class", 
+          "tag": 2671677458
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewNativeImpl$1.class", 
+          "tag": 1011189692
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardViewApi.class", 
+          "tag": 1563475280
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardView.class", 
+          "tag": 2135730096
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardView$StereoRenderer.class", 
+          "tag": 4016079490
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardView$Renderer.class", 
+          "tag": 4217201966
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardView$1.class", 
+          "tag": 1176294748
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardNativeActivity.class", 
+          "tag": 798903396
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardDeviceParams.class", 
+          "tag": 2937990816
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardDeviceParams$VerticalAlignmentType.class", 
+          "tag": 2481793560
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardDeviceParams$1.class", 
+          "tag": 2554370354
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardActivity.class", 
+          "tag": 1153113642
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/CardboardActivity$1.class", 
+          "tag": 2247252498
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "2db9cd83741ceececc97c49c447873f0"
+}

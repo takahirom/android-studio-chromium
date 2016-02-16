@@ -1,0 +1,21 @@
+{
+  "input-strings": [], 
+  "files-md5": "7b06ea5569ab96154583f9c1ffc36d86", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/ui_accessibility_java.jar", 
+      "tag": "174b656ad79d8b521266e7e8fbb5883c", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/ui/accessibility/AXTextStyle.class", 
+          "tag": 3934148016
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

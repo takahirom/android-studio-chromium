@@ -1,0 +1,17 @@
+{
+  "input-strings": [], 
+  "files-md5": "bada9b4e42506f2b8d9ffddb66fbd95b", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/android_support_v7_recyclerview_javalib.jar", 
+      "tag": "b1a086dd74480f74f4f91bdc7e963609", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

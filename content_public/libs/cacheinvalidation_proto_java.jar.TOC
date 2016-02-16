@@ -1,0 +1,672 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationSyncMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSyncMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSyncMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoChannelCommon$NetworkEndpointId.class
+public final class com.google.protos.ipc.invalidation.NanoChannelCommon$NetworkEndpointId extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoChannelCommon$NetworkEndpointId>
+  SourceFile: "NanoChannelCommon.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$AndroidNetworkSendRequest.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$AndroidNetworkSendRequest extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$AndroidNetworkSendRequest>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ScheduledTask.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ScheduledTask extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ScheduledTask>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$AndroidTiclState$Metadata.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$AndroidTiclState$Metadata extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$AndroidTiclState$Metadata>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClient$PersistentTiclState.class
+public final class com.google.protos.ipc.invalidation.NanoClient$PersistentTiclState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClient$PersistentTiclState>
+  SourceFile: "NanoClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClient$RunStateP.class
+public final class com.google.protos.ipc.invalidation.NanoClient$RunStateP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClient$RunStateP>
+  SourceFile: "NanoClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$TokenControlMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$TokenControlMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$TokenControlMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$StatusP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$StatusP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$StatusP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ClientToServerMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ClientToServerMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ClientToServerMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$InfoRequestMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$InfoRequestMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$InfoRequestMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$ReadyUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$ReadyUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$ReadyUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$InfoMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$InfoMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$InfoMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidChannel.class
+public interface com.google.protos.ipc.invalidation.NanoAndroidChannel
+  SourceFile: "NanoAndroidChannel.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$StartCommand.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$StartCommand extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$StartCommand>
+  SourceFile: "NanoAndroidListenerProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/Types.class
+public interface com.google.protos.ipc.invalidation.Types
+  SourceFile: "Types.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall$NetworkStatus.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall$NetworkStatus extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall$NetworkStatus>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol.class
+public interface com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol
+  SourceFile: "NanoAndroidListenerProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ProtocolVersion.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ProtocolVersion extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ProtocolVersion>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$ErrorUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$ErrorUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$ErrorUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClient.class
+public interface com.google.protos.ipc.invalidation.NanoClient
+  SourceFile: "NanoClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$AckDowncall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$AckDowncall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$AckDowncall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ClientConfigP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ClientConfigP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ClientConfigP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ObjectIdP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ObjectIdP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ObjectIdP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$ReissueRegistrationsUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$ReissueRegistrationsUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$ReissueRegistrationsUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidChannel$AddressedAndroidMessageBatch.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidChannel$AddressedAndroidMessageBatch extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidChannel$AddressedAndroidMessageBatch>
+  SourceFile: "NanoAndroidChannel.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$InvalidationP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$InvalidationP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$InvalidationP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationSubtree.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSubtree extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSubtree>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$AndroidTiclState.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$AndroidTiclState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$AndroidTiclState>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService.class
+public interface com.google.protos.ipc.invalidation.NanoAndroidService
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ClientHeader.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ClientHeader extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ClientHeader>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClient$ExponentialBackoffState.class
+public final class com.google.protos.ipc.invalidation.NanoClient$ExponentialBackoffState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClient$ExponentialBackoffState>
+  SourceFile: "NanoClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient.class
+public interface com.google.protos.ipc.invalidation.NanoJavaClient
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient$RecurringTaskState.class
+public final class com.google.protos.ipc.invalidation.NanoJavaClient$RecurringTaskState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoJavaClient$RecurringTaskState>
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient$BatcherState.class
+public final class com.google.protos.ipc.invalidation.NanoJavaClient$BatcherState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoJavaClient$BatcherState>
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RateLimitP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RateLimitP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RateLimitP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationSyncRequestMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSyncRequestMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSyncRequestMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoChannelCommon.class
+public interface com.google.protos.ipc.invalidation.NanoChannelCommon
+  SourceFile: "NanoChannelCommon.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoChannelCommon$ChannelMessageEncoding.class
+public final class com.google.protos.ipc.invalidation.NanoChannelCommon$ChannelMessageEncoding extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoChannelCommon$ChannelMessageEncoding>
+  SourceFile: "NanoChannelCommon.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$StopDowncall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$StopDowncall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$StopDowncall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ApplicationClientIdP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ApplicationClientIdP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ApplicationClientIdP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol.class
+public interface com.google.protos.ipc.invalidation.NanoClientProtocol
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ServerToClientMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ServerToClientMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ServerToClientMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient$ProtocolHandlerState.class
+public final class com.google.protos.ipc.invalidation.NanoJavaClient$ProtocolHandlerState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoJavaClient$ProtocolHandlerState>
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall$CreateClient.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall$CreateClient extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall$CreateClient>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationStatus.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationStatus extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationStatus>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$AndroidSchedulerEvent.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$AndroidSchedulerEvent extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$AndroidSchedulerEvent>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/Types$Constants.class
+public final class com.google.protos.ipc.invalidation.Types$Constants extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.Types$Constants>
+  SourceFile: "Types.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$AndroidListenerState.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$AndroidListenerState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$AndroidListenerState>
+  SourceFile: "NanoAndroidListenerProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationSummary.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSummary extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationSummary>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$PropertyRecord.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$PropertyRecord extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$PropertyRecord>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ConfigChangeMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ConfigChangeMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ConfigChangeMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ProtocolHandlerConfigP.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ProtocolHandlerConfigP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ProtocolHandlerConfigP>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall$ServerMessage.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall$ServerMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall$ServerMessage>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$StartDowncall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$StartDowncall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$StartDowncall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ErrorMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ErrorMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ErrorMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/Types$ClientType.class
+public final class com.google.protos.ipc.invalidation.Types$ClientType extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.Types$ClientType>
+  SourceFile: "Types.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient$InvalidationClientState.class
+public final class com.google.protos.ipc.invalidation.NanoJavaClient$InvalidationClientState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoJavaClient$InvalidationClientState>
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidChannel$AndroidEndpointId.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidChannel$AndroidEndpointId extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidChannel$AndroidEndpointId>
+  SourceFile: "NanoAndroidChannel.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$AndroidTiclStateWithDigest.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$AndroidTiclStateWithDigest extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$AndroidTiclStateWithDigest>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClient$PersistentStateBlob.class
+public final class com.google.protos.ipc.invalidation.NanoClient$PersistentStateBlob extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClient$PersistentStateBlob>
+  SourceFile: "NanoClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$RegistrationStatusMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationStatusMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$RegistrationStatusMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$AndroidListenerState$RetryRegistrationState.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$AndroidListenerState$RetryRegistrationState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$AndroidListenerState$RetryRegistrationState>
+  SourceFile: "NanoAndroidListenerProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$AndroidListenerState$ScheduledRegistrationRetry.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$AndroidListenerState$ScheduledRegistrationRetry extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$AndroidListenerState$ScheduledRegistrationRetry>
+  SourceFile: "NanoAndroidListenerProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$Version.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$Version extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$Version>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClient$AckHandleP.class
+public final class com.google.protos.ipc.invalidation.NanoClient$AckHandleP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClient$AckHandleP>
+  SourceFile: "NanoClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ClientVersion.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ClientVersion extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ClientVersion>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$RegistrationFailureUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$RegistrationFailureUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$RegistrationFailureUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$InternalDowncall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient$StatisticsState.class
+public final class com.google.protos.ipc.invalidation.NanoJavaClient$StatisticsState extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoJavaClient$StatisticsState>
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$RegistrationStatusUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$RegistrationStatusUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$RegistrationStatusUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/Types$ObjectSource.class
+public final class com.google.protos.ipc.invalidation.Types$ObjectSource extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.Types$ObjectSource>
+  SourceFile: "Types.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$InitializeMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$InitializeMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$InitializeMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$InvalidationMessage.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$InvalidationMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$InvalidationMessage>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$RegistrationDowncall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$RegistrationDowncall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ClientDowncall$RegistrationDowncall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$RegistrationCommand.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$RegistrationCommand extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidListenerProtocol$RegistrationCommand>
+  SourceFile: "NanoAndroidListenerProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoJavaClient$RegistrationManagerStateP.class
+public final class com.google.protos.ipc.invalidation.NanoJavaClient$RegistrationManagerStateP extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoJavaClient$RegistrationManagerStateP>
+  SourceFile: "NanoJavaClient.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$InvalidateUpcall.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$InvalidateUpcall extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidService$ListenerUpcall$InvalidateUpcall>
+  SourceFile: "NanoAndroidService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoAndroidChannel$AddressedAndroidMessage.class
+public final class com.google.protos.ipc.invalidation.NanoAndroidChannel$AddressedAndroidMessage extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoAndroidChannel$AddressedAndroidMessage>
+  SourceFile: "NanoAndroidChannel.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/cacheinvalidation_proto_java.jar!/com/google/protos/ipc/invalidation/NanoClientProtocol$ServerHeader.class
+public final class com.google.protos.ipc.invalidation.NanoClientProtocol$ServerHeader extends com.google.protobuf.nano.ExtendableMessageNano<com.google.protos.ipc.invalidation.NanoClientProtocol$ServerHeader>
+  SourceFile: "NanoClientProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

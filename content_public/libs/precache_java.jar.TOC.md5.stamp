@@ -1,0 +1,29 @@
+{
+  "input-strings": [], 
+  "files-md5": "a4451a91cffaaa715643272e402adcae", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/precache_java.jar", 
+      "tag": "a6f69f8548200e636c6bd28115b5dddf", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/precache/NetworkInfoDelegateFactory.class", 
+          "tag": 73964596
+        }, 
+        {
+          "path": "org/chromium/components/precache/DeviceState.class", 
+          "tag": 2039217492
+        }, 
+        {
+          "path": "org/chromium/components/precache/NetworkInfoDelegate.class", 
+          "tag": 347108546
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

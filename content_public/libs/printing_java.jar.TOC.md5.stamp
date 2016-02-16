@@ -1,0 +1,69 @@
+{
+  "input-strings": [], 
+  "files-md5": "ee3d37f63e2aa34b2727f09ebc9c3d60", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/printing_java.jar", 
+      "tag": "f3c604a521822764f6bfbf116b300149", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/printing/PrintDocumentAdapterWrapper$LayoutResultCallbackWrapperImpl.class", 
+          "tag": 4172568180
+        }, 
+        {
+          "path": "org/chromium/printing/PrintingController.class", 
+          "tag": 2366368865
+        }, 
+        {
+          "path": "org/chromium/printing/PrintDocumentAdapterWrapper$LayoutResultCallbackWrapper.class", 
+          "tag": 3709645227
+        }, 
+        {
+          "path": "org/chromium/printing/PrintingControllerImpl.class", 
+          "tag": 2575407553
+        }, 
+        {
+          "path": "org/chromium/printing/PrintingContext.class", 
+          "tag": 1243462155
+        }, 
+        {
+          "path": "org/chromium/printing/PrintDocumentAdapterWrapper.class", 
+          "tag": 2103020539
+        }, 
+        {
+          "path": "org/chromium/printing/PrintManagerDelegate.class", 
+          "tag": 3834399725
+        }, 
+        {
+          "path": "org/chromium/printing/PrintDocumentAdapterWrapper$WriteResultCallbackWrapper.class", 
+          "tag": 3411919860
+        }, 
+        {
+          "path": "org/chromium/printing/PrintingContextInterface.class", 
+          "tag": 1805679540
+        }, 
+        {
+          "path": "org/chromium/printing/PrintDocumentAdapterWrapper$WriteResultCallbackWrapperImpl.class", 
+          "tag": 3149667759
+        }, 
+        {
+          "path": "org/chromium/printing/PrintDocumentAdapterWrapper$PdfGenerator.class", 
+          "tag": 4016901524
+        }, 
+        {
+          "path": "org/chromium/printing/Printable.class", 
+          "tag": 1533382754
+        }, 
+        {
+          "path": "org/chromium/printing/PrintManagerDelegateImpl.class", 
+          "tag": 2612822494
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

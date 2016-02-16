@@ -1,0 +1,204 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/media_java.dex.jar"
+  ], 
+  "files-md5": "cf18488809d84a2599d8610b52b50e90", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/media_java.jar", 
+      "tag": "3141c19881db9bde2f05bd085ff39f45", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$2.class", 
+          "tag": 3078353362
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$4.class", 
+          "tag": 1270860304
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureFactory$ChromiumCameraInfo.class", 
+          "tag": 3902113316
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrCaptureSessionListener.class", 
+          "tag": 3320497027
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerListener.class", 
+          "tag": 13356481
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureFormat.class", 
+          "tag": 2753673761
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureAndroid$BuggyDeviceHack.class", 
+          "tag": 3909053334
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrImageReaderListener.class", 
+          "tag": 1323256482
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrStateListener.class", 
+          "tag": 2988645480
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CameraState.class", 
+          "tag": 1860018782
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$CodecInfo.class", 
+          "tag": 2753925411
+        }, 
+        {
+          "path": "org/chromium/media/AudioRecordInput$AudioRecordThread.class", 
+          "tag": 3382533242
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid.class", 
+          "tag": 2190836396
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$EventListener.class", 
+          "tag": 3046784575
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$KeyStatus.class", 
+          "tag": 725855118
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$1.class", 
+          "tag": 1171536378
+        }, 
+        {
+          "path": "org/chromium/media/WebAudioMediaCodecBridge.class", 
+          "tag": 2047272857
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$AudioDeviceName.class", 
+          "tag": 357606262
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$1.class", 
+          "tag": 365197557
+        }, 
+        {
+          "path": "org/chromium/media/AudioRecordInput$1.class", 
+          "tag": 1558576345
+        }, 
+        {
+          "path": "org/chromium/media/AudioRecordInput.class", 
+          "tag": 382831605
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerBridge$LoadDataUriTask.class", 
+          "tag": 2655621125
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureAndroid.class", 
+          "tag": 3203461586
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2.class", 
+          "tag": 215138650
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$PostRequestTask.class", 
+          "tag": 3344307644
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureFactory.class", 
+          "tag": 3112499077
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge.class", 
+          "tag": 365321085
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureTango$CamParams.class", 
+          "tag": 324845823
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$1.class", 
+          "tag": 2283758095
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$KeyStatusChangeListener.class", 
+          "tag": 3209265394
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$DequeueOutputResult.class", 
+          "tag": 3292097941
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$PendingCreateSessionData.class", 
+          "tag": 39302940
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$3.class", 
+          "tag": 882919570
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge.class", 
+          "tag": 1491636782
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureTango.class", 
+          "tag": 532283438
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerBridge$AllowedOperations.class", 
+          "tag": 1910896899
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$NonThreadSafe.class", 
+          "tag": 620426997
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerBridge.class", 
+          "tag": 3447959785
+        }, 
+        {
+          "path": "org/chromium/media/AndroidImageFormat.class", 
+          "tag": 306263312
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$1.class", 
+          "tag": 327675348
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$ExpirationUpdateListener.class", 
+          "tag": 4213480726
+        }, 
+        {
+          "path": "org/chromium/media/VideoCapture.class", 
+          "tag": 3787591867
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera.class", 
+          "tag": 1129402558
+        }, 
+        {
+          "path": "org/chromium/media/CaptureApiType.class", 
+          "tag": 3857049204
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$DequeueInputResult.class", 
+          "tag": 2653553870
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "2cd77540dba7f4a59b263aa9ab2163be"
+}

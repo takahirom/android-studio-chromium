@@ -1,0 +1,152 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusParams.class
+final class org.chromium.mojom.device.BatteryMonitor_Internal$BatteryMonitorQueryNextStatusParams extends org.chromium.mojo.bindings.Struct
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParamsProxyToResponder.class
+class org.chromium.mojom.device.BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParamsProxyToResponder implements org.chromium.mojom.device.BatteryMonitor$QueryNextStatusResponse
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal.class
+class org.chromium.mojom.device.BatteryMonitor_Internal
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$Proxy.class
+final class org.chromium.mojom.device.BatteryMonitor_Internal$Proxy extends org.chromium.mojo.bindings.Interface$AbstractProxy implements org.chromium.mojom.device.BatteryMonitor$Proxy
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParamsForwardToCallback.class
+class org.chromium.mojom.device.BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParamsForwardToCallback extends org.chromium.mojo.bindings.SideEffectFreeCloseable implements org.chromium.mojo.bindings.MessageReceiver
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor.class
+public interface org.chromium.mojom.device.BatteryMonitor extends org.chromium.mojo.bindings.Interface
+  SourceFile: "BatteryMonitor.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor$Proxy.class
+public interface org.chromium.mojom.device.BatteryMonitor$Proxy extends org.chromium.mojom.device.BatteryMonitor,org.chromium.mojo.bindings.Interface$Proxy
+  SourceFile: "BatteryMonitor.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParams.class
+final class org.chromium.mojom.device.BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParams extends org.chromium.mojo.bindings.Struct
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$Stub.class
+final class org.chromium.mojom.device.BatteryMonitor_Internal$Stub extends org.chromium.mojo.bindings.Interface$Stub<org.chromium.mojom.device.BatteryMonitor>
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor$QueryNextStatusResponse.class
+public interface org.chromium.mojom.device.BatteryMonitor$QueryNextStatusResponse extends org.chromium.mojo.bindings.Callbacks$Callback1<org.chromium.mojom.device.BatteryStatus>
+  SourceFile: "BatteryMonitor.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryStatus.class
+public final class org.chromium.mojom.device.BatteryStatus extends org.chromium.mojo.bindings.Struct
+  SourceFile: "BatteryStatus.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/mojom/device/BatteryMonitor_Internal$1.class
+final class org.chromium.mojom.device.BatteryMonitor_Internal$1 extends org.chromium.mojo.bindings.Interface$Manager<org.chromium.mojom.device.BatteryMonitor, org.chromium.mojom.device.BatteryMonitor$Proxy>
+  SourceFile: "BatteryMonitor_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryStatusManager$BatteryStatusCallback.class
+interface org.chromium.device.battery.BatteryStatusManager$BatteryStatusCallback
+  SourceFile: "BatteryStatusManager.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryMonitorFactory.class
+public class org.chromium.device.battery.BatteryMonitorFactory
+  SourceFile: "BatteryMonitorFactory.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryMonitorFactory$1.class
+class org.chromium.device.battery.BatteryMonitorFactory$1 implements org.chromium.device.battery.BatteryStatusManager$BatteryStatusCallback
+  SourceFile: "BatteryMonitorFactory.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryStatusManager$AndroidBatteryManagerWrapper.class
+class org.chromium.device.battery.BatteryStatusManager$AndroidBatteryManagerWrapper
+  SourceFile: "BatteryStatusManager.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryStatusManager$1.class
+class org.chromium.device.battery.BatteryStatusManager$1 extends android.content.BroadcastReceiver
+  SourceFile: "BatteryStatusManager.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryMonitorImpl.class
+public class org.chromium.device.battery.BatteryMonitorImpl implements org.chromium.mojom.device.BatteryMonitor
+  SourceFile: "BatteryMonitorImpl.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_battery_java.jar!/org/chromium/device/battery/BatteryStatusManager.class
+class org.chromium.device.battery.BatteryStatusManager
+  SourceFile: "BatteryStatusManager.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

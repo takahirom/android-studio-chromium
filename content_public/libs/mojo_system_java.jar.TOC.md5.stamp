@@ -1,0 +1,65 @@
+{
+  "input-strings": [], 
+  "files-md5": "ece6b7d681b421ff0e1d0e1a08cdf894", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/mojo_system_java.jar", 
+      "tag": "930ed34259a61a95953fcb433a2a671a", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/CoreImpl$1.class", 
+          "tag": 2011389768
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/CoreImpl$AsyncWaiterCancellableImpl.class", 
+          "tag": 1299005056
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/DataPipeProducerHandleImpl.class", 
+          "tag": 287438812
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/CoreImpl.class", 
+          "tag": 2667989569
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/BaseRunLoop.class", 
+          "tag": 485626942
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/UntypedHandleImpl.class", 
+          "tag": 1087075058
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/HandleBase.class", 
+          "tag": 33768385
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/MessagePipeHandleImpl.class", 
+          "tag": 2541405214
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/SharedBufferHandleImpl.class", 
+          "tag": 3296422143
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/CoreImpl$LazyHolder.class", 
+          "tag": 1280335420
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/CoreImpl$IntegerPair.class", 
+          "tag": 157412010
+        }, 
+        {
+          "path": "org/chromium/mojo/system/impl/DataPipeConsumerHandleImpl.class", 
+          "tag": 2125744590
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

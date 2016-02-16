@@ -1,0 +1,57 @@
+{
+  "input-strings": [], 
+  "files-md5": "de4d43bd40b2617c6f138e8a5b74a6a8", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/device_vibration_java.jar", 
+      "tag": "63745bf56fa3ec0818a4e0edd2503501", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerVibrateParams.class", 
+          "tag": 4062844571
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal.class", 
+          "tag": 2606187905
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager.class", 
+          "tag": 2717029167
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$Proxy.class", 
+          "tag": 444319286
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerCancelParams.class", 
+          "tag": 1884099858
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$1.class", 
+          "tag": 3194625342
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager$Proxy.class", 
+          "tag": 2965272624
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$Stub.class", 
+          "tag": 2178844261
+        }, 
+        {
+          "path": "org/chromium/device/vibration/VibrationManagerImpl.class", 
+          "tag": 797252783
+        }, 
+        {
+          "path": "org/chromium/device/vibration/VibrationManagerImpl$AndroidVibratorWrapper.class", 
+          "tag": 3239068911
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

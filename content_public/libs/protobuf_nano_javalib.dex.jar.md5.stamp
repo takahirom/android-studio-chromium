@@ -1,0 +1,84 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/protobuf_nano_javalib.dex.jar"
+  ], 
+  "files-md5": "e7cddac56b32453ddbd28eaef13d2836", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/protobuf_nano_javalib.jar", 
+      "tag": "a2a4f4f47c52f7d8a4ab94239296a17b", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "com/google/protobuf/nano/ExtendableMessageNano.class", 
+          "tag": 1379179430
+        }, 
+        {
+          "path": "com/google/protobuf/nano/WireFormatNano.class", 
+          "tag": 2276968013
+        }, 
+        {
+          "path": "com/google/protobuf/nano/UnknownFieldData.class", 
+          "tag": 2761810575
+        }, 
+        {
+          "path": "com/google/protobuf/nano/InvalidProtocolBufferNanoException.class", 
+          "tag": 1137715877
+        }, 
+        {
+          "path": "com/google/protobuf/nano/CodedInputByteBufferNano.class", 
+          "tag": 4011545320
+        }, 
+        {
+          "path": "com/google/protobuf/nano/Extension$PrimitiveExtension.class", 
+          "tag": 956892239
+        }, 
+        {
+          "path": "com/google/protobuf/nano/FieldArray.class", 
+          "tag": 1301111217
+        }, 
+        {
+          "path": "com/google/protobuf/nano/InternalNano.class", 
+          "tag": 646676131
+        }, 
+        {
+          "path": "com/google/protobuf/nano/FieldData.class", 
+          "tag": 2698287535
+        }, 
+        {
+          "path": "com/google/protobuf/nano/CodedOutputByteBufferNano$OutOfSpaceException.class", 
+          "tag": 1495099093
+        }, 
+        {
+          "path": "com/google/protobuf/nano/MessageNano.class", 
+          "tag": 1961361097
+        }, 
+        {
+          "path": "com/google/protobuf/nano/Extension$1.class", 
+          "tag": 2574297206
+        }, 
+        {
+          "path": "com/google/protobuf/nano/MessageNanoPrinter.class", 
+          "tag": 3182084734
+        }, 
+        {
+          "path": "com/google/protobuf/nano/Extension.class", 
+          "tag": 1224229111
+        }, 
+        {
+          "path": "com/google/protobuf/nano/CodedOutputByteBufferNano.class", 
+          "tag": 3897465804
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "ea4a7fda113a3686e2835bf98b7ad87f"
+}

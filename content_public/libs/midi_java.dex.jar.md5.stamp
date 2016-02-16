@@ -1,0 +1,76 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/midi_java.dex.jar"
+  ], 
+  "files-md5": "8481f51d57dec75ec0e266f2047a3142", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/midi_java.jar", 
+      "tag": "d1cd0ff06e916b430513df078badd448", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/media/midi/UsbMidiDeviceAndroid.class", 
+          "tag": 3211734284
+        }, 
+        {
+          "path": "org/chromium/media/midi/UsbMidiDeviceFactoryAndroid.class", 
+          "tag": 3519031715
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiManagerAndroid.class", 
+          "tag": 2021573336
+        }, 
+        {
+          "path": "org/chromium/media/midi/UsbMidiDeviceAndroid$2.class", 
+          "tag": 1419619769
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiManagerAndroid$2.class", 
+          "tag": 2775396651
+        }, 
+        {
+          "path": "org/chromium/media/midi/UsbMidiDeviceAndroid$1.class", 
+          "tag": 1348255305
+        }, 
+        {
+          "path": "org/chromium/media/midi/UsbMidiDeviceFactoryAndroid$1.class", 
+          "tag": 3879531941
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiManagerAndroid$3.class", 
+          "tag": 1781074743
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiInputPortAndroid$1.class", 
+          "tag": 850936386
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiDeviceAndroid.class", 
+          "tag": 2366737355
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiInputPortAndroid.class", 
+          "tag": 2552610587
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiManagerAndroid$1.class", 
+          "tag": 4126254070
+        }, 
+        {
+          "path": "org/chromium/media/midi/MidiOutputPortAndroid.class", 
+          "tag": 2786087633
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "6f1577be47e6baf3a2ecc832a2320a3a"
+}

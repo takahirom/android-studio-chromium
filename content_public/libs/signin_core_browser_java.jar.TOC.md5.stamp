@@ -1,0 +1,25 @@
+{
+  "input-strings": [], 
+  "files-md5": "e7665c4cfb69a1c34a923730e516c440", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/signin_core_browser_java.jar", 
+      "tag": "409b3c804077b44b7f4c5b319b72f31e", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountInfoFetcher$1.class", 
+          "tag": 1252654152
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountInfoFetcher.class", 
+          "tag": 983731320
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

@@ -1,0 +1,24 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/document_tab_model_info_proto_java.jar!/org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo.class
+public interface org.chromium.chrome.browser.tabmodel.document.DocumentTabModelInfo
+  SourceFile: "DocumentTabModelInfo.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/document_tab_model_info_proto_java.jar!/org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo$DocumentEntry.class
+public final class org.chromium.chrome.browser.tabmodel.document.DocumentTabModelInfo$DocumentEntry extends com.google.protobuf.nano.ExtendableMessageNano<org.chromium.chrome.browser.tabmodel.document.DocumentTabModelInfo$DocumentEntry>
+  SourceFile: "DocumentTabModelInfo.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/document_tab_model_info_proto_java.jar!/org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo$DocumentList.class
+public final class org.chromium.chrome.browser.tabmodel.document.DocumentTabModelInfo$DocumentList extends com.google.protobuf.nano.ExtendableMessageNano<org.chromium.chrome.browser.tabmodel.document.DocumentTabModelInfo$DocumentList>
+  SourceFile: "DocumentTabModelInfo.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

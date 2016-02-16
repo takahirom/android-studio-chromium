@@ -1,0 +1,56 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/policy_java.dex.jar"
+  ], 
+  "files-md5": "b7c391323c6b146b67c794e687a391a0", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/policy_java.jar", 
+      "tag": "4efc80e341eac20969bb41e9e5278992", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/policy/CombinedPolicyProvider.class", 
+          "tag": 3192223738
+        }, 
+        {
+          "path": "org/chromium/policy/AbstractAppRestrictionsProvider.class", 
+          "tag": 2680902614
+        }, 
+        {
+          "path": "org/chromium/policy/PolicyConverter.class", 
+          "tag": 1221280044
+        }, 
+        {
+          "path": "org/chromium/policy/AppRestrictionsProvider.class", 
+          "tag": 2762361571
+        }, 
+        {
+          "path": "org/chromium/policy/CombinedPolicyProvider$PolicyChangeListener.class", 
+          "tag": 3695158237
+        }, 
+        {
+          "path": "org/chromium/policy/AbstractAppRestrictionsProvider$2.class", 
+          "tag": 224088641
+        }, 
+        {
+          "path": "org/chromium/policy/AbstractAppRestrictionsProvider$1.class", 
+          "tag": 3400240711
+        }, 
+        {
+          "path": "org/chromium/policy/PolicyProvider.class", 
+          "tag": 529862622
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "67bb483ef186f160819a6601a306f8f3"
+}

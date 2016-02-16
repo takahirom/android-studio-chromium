@@ -1,0 +1,16 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/signin_core_browser_java.jar!/org/chromium/components/signin/ChildAccountInfoFetcher$1.class
+final class org.chromium.components.signin.ChildAccountInfoFetcher$1 extends java.lang.Object implements org.chromium.base.Callback<java.lang.Boolean>
+  SourceFile: "ChildAccountInfoFetcher.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/signin_core_browser_java.jar!/org/chromium/components/signin/ChildAccountInfoFetcher.class
+public final class org.chromium.components.signin.ChildAccountInfoFetcher
+  SourceFile: "ChildAccountInfoFetcher.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

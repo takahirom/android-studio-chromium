@@ -1,0 +1,32 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/invalidation_java.jar!/org/chromium/components/invalidation/InvalidationClientService.class
+public class org.chromium.components.invalidation.InvalidationClientService extends com.google.ipc.invalidation.external.client.contrib.AndroidListener
+  SourceFile: "InvalidationClientService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/invalidation_java.jar!/org/chromium/components/invalidation/PendingInvalidation.class
+public class org.chromium.components.invalidation.PendingInvalidation
+  SourceFile: "PendingInvalidation.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/invalidation_java.jar!/org/chromium/components/invalidation/InvalidationClientService$1.class
+class org.chromium.components.invalidation.InvalidationClientService$1 implements org.chromium.sync.signin.AccountManagerHelper$GetAuthTokenCallback
+  SourceFile: "InvalidationClientService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/invalidation_java.jar!/org/chromium/components/invalidation/InvalidationService.class
+public class org.chromium.components.invalidation.InvalidationService
+  SourceFile: "InvalidationService.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

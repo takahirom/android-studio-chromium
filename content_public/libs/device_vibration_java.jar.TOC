@@ -1,0 +1,80 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerVibrateParams.class
+final class org.chromium.mojom.device.VibrationManager_Internal$VibrationManagerVibrateParams extends org.chromium.mojo.bindings.Struct
+  SourceFile: "VibrationManager_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager_Internal.class
+class org.chromium.mojom.device.VibrationManager_Internal
+  SourceFile: "VibrationManager_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager.class
+public interface org.chromium.mojom.device.VibrationManager extends org.chromium.mojo.bindings.Interface
+  SourceFile: "VibrationManager.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager_Internal$Proxy.class
+final class org.chromium.mojom.device.VibrationManager_Internal$Proxy extends org.chromium.mojo.bindings.Interface$AbstractProxy implements org.chromium.mojom.device.VibrationManager$Proxy
+  SourceFile: "VibrationManager_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerCancelParams.class
+final class org.chromium.mojom.device.VibrationManager_Internal$VibrationManagerCancelParams extends org.chromium.mojo.bindings.Struct
+  SourceFile: "VibrationManager_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager_Internal$1.class
+final class org.chromium.mojom.device.VibrationManager_Internal$1 extends org.chromium.mojo.bindings.Interface$Manager<org.chromium.mojom.device.VibrationManager, org.chromium.mojom.device.VibrationManager$Proxy>
+  SourceFile: "VibrationManager_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager$Proxy.class
+public interface org.chromium.mojom.device.VibrationManager$Proxy extends org.chromium.mojom.device.VibrationManager,org.chromium.mojo.bindings.Interface$Proxy
+  SourceFile: "VibrationManager.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/mojom/device/VibrationManager_Internal$Stub.class
+final class org.chromium.mojom.device.VibrationManager_Internal$Stub extends org.chromium.mojo.bindings.Interface$Stub<org.chromium.mojom.device.VibrationManager>
+  SourceFile: "VibrationManager_Internal.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/device/vibration/VibrationManagerImpl.class
+public class org.chromium.device.vibration.VibrationManagerImpl implements org.chromium.mojom.device.VibrationManager
+  SourceFile: "VibrationManagerImpl.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/device_vibration_java.jar!/org/chromium/device/vibration/VibrationManagerImpl$AndroidVibratorWrapper.class
+public class org.chromium.device.vibration.VibrationManagerImpl$AndroidVibratorWrapper
+  SourceFile: "VibrationManagerImpl.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

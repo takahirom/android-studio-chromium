@@ -1,0 +1,113 @@
+{
+  "input-strings": [], 
+  "files-md5": "ac222c4fd336a3884fb81c15ffacfd24", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/device_bluetooth_java.jar", 
+      "tag": "2ffe977738201ffebb574fb8c620bfe2", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$1.class", 
+          "tag": 4167569265
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ScanResultWrapper.class", 
+          "tag": 2667893781
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ForwardScanCallbackToWrapper.class", 
+          "tag": 1167233776
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$1.class", 
+          "tag": 1964281284
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl.class", 
+          "tag": 2968174391
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattWrapper.class", 
+          "tag": 3701466633
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothAdapter$ScanCallback.class", 
+          "tag": 984538050
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothDeviceWrapper.class", 
+          "tag": 2576894367
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattCallbackWrapper.class", 
+          "tag": 3634633443
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothRemoteGattService.class", 
+          "tag": 1398955002
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothRemoteGattCharacteristic.class", 
+          "tag": 1487803398
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice.class", 
+          "tag": 4175076187
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothLeScannerWrapper.class", 
+          "tag": 3969397366
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers.class", 
+          "tag": 3862005405
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothAdapter$1.class", 
+          "tag": 3175601770
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothAdapterWrapper.class", 
+          "tag": 810683710
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattCharacteristicWrapper.class", 
+          "tag": 1143984389
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothAdapter.class", 
+          "tag": 971422152
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ScanCallbackWrapper.class", 
+          "tag": 762372699
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$4.class", 
+          "tag": 4221233846
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$3.class", 
+          "tag": 1225970808
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$2.class", 
+          "tag": 1390862906
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ForwardBluetoothGattCallbackToWrapper.class", 
+          "tag": 1210546045
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattServiceWrapper.class", 
+          "tag": 3036555723
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

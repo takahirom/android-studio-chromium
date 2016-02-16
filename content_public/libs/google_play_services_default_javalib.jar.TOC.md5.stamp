@@ -1,0 +1,21 @@
+{
+  "input-strings": [], 
+  "files-md5": "a6e806b0e5923d46e8501d7ac0eaee1d", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/google_play_services_default_javalib.jar", 
+      "tag": "b4a0a17971cf024138d0c57f2db55c87", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "android/UnusedStub.class", 
+          "tag": 1282183149
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

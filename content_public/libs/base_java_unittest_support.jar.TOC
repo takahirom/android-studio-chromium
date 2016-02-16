@@ -1,0 +1,24 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/base_java_unittest_support.jar!/org/chromium/base/TestUiThread$1.class
+final class org.chromium.base.TestUiThread$1 implements java.lang.Runnable
+  SourceFile: "TestUiThread.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/base_java_unittest_support.jar!/org/chromium/base/ContentUriTestUtils.class
+public class org.chromium.base.ContentUriTestUtils
+  SourceFile: "ContentUriTestUtils.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/base_java_unittest_support.jar!/org/chromium/base/TestUiThread.class
+public class org.chromium.base.TestUiThread
+  SourceFile: "TestUiThread.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

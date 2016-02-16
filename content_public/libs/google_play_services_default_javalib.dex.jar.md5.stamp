@@ -1,0 +1,28 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/google_play_services_default_javalib.dex.jar"
+  ], 
+  "files-md5": "a6e806b0e5923d46e8501d7ac0eaee1d", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/google_play_services_default_javalib.jar", 
+      "tag": "b4a0a17971cf024138d0c57f2db55c87", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "android/UnusedStub.class", 
+          "tag": 1282183149
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "45b9e511c242fec97743ee4cd91d7faa"
+}

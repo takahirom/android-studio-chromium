@@ -1,0 +1,100 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/device_battery_java.dex.jar"
+  ], 
+  "files-md5": "a00cd1de9319ec833b5b67e46640ab98", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/device_battery_java.jar", 
+      "tag": "ffddf521088fcaa9c780c4bac3f0ae4e", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusParams.class", 
+          "tag": 3887334259
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParamsProxyToResponder.class", 
+          "tag": 918738749
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal.class", 
+          "tag": 1990629616
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$Proxy.class", 
+          "tag": 3548769699
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParamsForwardToCallback.class", 
+          "tag": 2326505749
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor.class", 
+          "tag": 1232666436
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor$Proxy.class", 
+          "tag": 414680900
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$BatteryMonitorQueryNextStatusResponseParams.class", 
+          "tag": 327428963
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$Stub.class", 
+          "tag": 3421311061
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor$QueryNextStatusResponse.class", 
+          "tag": 3453525267
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryStatus.class", 
+          "tag": 1026355760
+        }, 
+        {
+          "path": "org/chromium/mojom/device/BatteryMonitor_Internal$1.class", 
+          "tag": 2020389501
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryStatusManager$BatteryStatusCallback.class", 
+          "tag": 894430851
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryMonitorFactory.class", 
+          "tag": 1117340960
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryMonitorFactory$1.class", 
+          "tag": 1916153766
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryStatusManager$AndroidBatteryManagerWrapper.class", 
+          "tag": 1212094710
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryStatusManager$1.class", 
+          "tag": 1210015268
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryMonitorImpl.class", 
+          "tag": 2286739718
+        }, 
+        {
+          "path": "org/chromium/device/battery/BatteryStatusManager.class", 
+          "tag": 3602065493
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "fa3251c02036fce50f95bffc1a50ee2c"
+}

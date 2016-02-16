@@ -1,0 +1,40 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../../out/Release/lib.java/blink_headers_java.dex.jar"
+  ], 
+  "files-md5": "7d02afbb1077ff706977598293f344c8", 
+  "input-files": [
+    {
+      "path": "../../../out/Release/lib.java/blink_headers_java.jar", 
+      "tag": "fb85a940c6b7f374573db9e58dfb9d34", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/blink_public/platform/WebDisplayMode.class", 
+          "tag": 716846876
+        }, 
+        {
+          "path": "org/chromium/blink_public/web/WebTextInputFlags.class", 
+          "tag": 2018119052
+        }, 
+        {
+          "path": "org/chromium/blink_public/web/WebInputEventType.class", 
+          "tag": 71699071
+        }, 
+        {
+          "path": "org/chromium/blink_public/web/WebInputEventModifier.class", 
+          "tag": 2358074499
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "84a46126f479cea5c41eb2ce9b014432"
+}

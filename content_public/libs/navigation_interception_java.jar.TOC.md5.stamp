@@ -1,0 +1,25 @@
+{
+  "input-strings": [], 
+  "files-md5": "f79d53494c45d0805fac105b4cafa0aa", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/navigation_interception_java.jar", 
+      "tag": "0fb71ff75ac88a54389fef91a2b68440", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/navigation_interception/InterceptNavigationDelegate.class", 
+          "tag": 3015563701
+        }, 
+        {
+          "path": "org/chromium/components/navigation_interception/NavigationParams.class", 
+          "tag": 1899674836
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

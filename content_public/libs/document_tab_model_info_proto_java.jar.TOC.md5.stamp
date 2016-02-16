@@ -1,0 +1,29 @@
+{
+  "input-strings": [], 
+  "files-md5": "f33b9784902d405ff3f388465768cb3c", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/document_tab_model_info_proto_java.jar", 
+      "tag": "6a09557027f398e72a6b935f0e1ad9df", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo.class", 
+          "tag": 421548337
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo$DocumentEntry.class", 
+          "tag": 3648091358
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/tabmodel/document/DocumentTabModelInfo$DocumentList.class", 
+          "tag": 1255723883
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

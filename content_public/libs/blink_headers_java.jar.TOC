@@ -1,0 +1,32 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/blink_headers_java.jar!/org/chromium/blink_public/platform/WebDisplayMode.class
+public class org.chromium.blink_public.platform.WebDisplayMode
+  SourceFile: "WebDisplayMode.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/blink_headers_java.jar!/org/chromium/blink_public/web/WebTextInputFlags.class
+public class org.chromium.blink_public.web.WebTextInputFlags
+  SourceFile: "WebTextInputFlags.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/blink_headers_java.jar!/org/chromium/blink_public/web/WebInputEventType.class
+public class org.chromium.blink_public.web.WebInputEventType
+  SourceFile: "WebInputEventType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/blink_headers_java.jar!/org/chromium/blink_public/web/WebInputEventModifier.class
+public class org.chromium.blink_public.web.WebInputEventModifier
+  SourceFile: "WebInputEventModifier.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

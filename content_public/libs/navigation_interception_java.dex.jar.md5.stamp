@@ -1,0 +1,32 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/navigation_interception_java.dex.jar"
+  ], 
+  "files-md5": "f79d53494c45d0805fac105b4cafa0aa", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/navigation_interception_java.jar", 
+      "tag": "0fb71ff75ac88a54389fef91a2b68440", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/navigation_interception/InterceptNavigationDelegate.class", 
+          "tag": 3015563701
+        }, 
+        {
+          "path": "org/chromium/components/navigation_interception/NavigationParams.class", 
+          "tag": 1899674836
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "7f72cb04e837ce0cb444ed4ed150270d"
+}

@@ -1,0 +1,28 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/variations_java.dex.jar"
+  ], 
+  "files-md5": "06b74c5540aeb4c1e80a2cbd3d54ea3b", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/variations_java.jar", 
+      "tag": "fcab3e6e908c13886ecadd919d626d4b", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/variations/VariationsAssociatedData.class", 
+          "tag": 567367836
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "f54d027d5777f4f830f925c3c2dc90f1"
+}

@@ -1,0 +1,40 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/invalidation_java.dex.jar"
+  ], 
+  "files-md5": "71fc2241b903777911eb43e901a044ee", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/invalidation_java.jar", 
+      "tag": "e28afa1b02b90e55139594543c0cfffa", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/invalidation/InvalidationClientService.class", 
+          "tag": 4121540495
+        }, 
+        {
+          "path": "org/chromium/components/invalidation/PendingInvalidation.class", 
+          "tag": 1323074536
+        }, 
+        {
+          "path": "org/chromium/components/invalidation/InvalidationClientService$1.class", 
+          "tag": 2332704296
+        }, 
+        {
+          "path": "org/chromium/components/invalidation/InvalidationService.class", 
+          "tag": 1238741364
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "7397cdd168c4d69cdf4d2388c2482f01"
+}

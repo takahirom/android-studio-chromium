@@ -1,0 +1,52 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/gcm_driver_java.dex.jar"
+  ], 
+  "files-md5": "057b831a143b16c299db853bc52b9dbd", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/gcm_driver_java.jar", 
+      "tag": "7b8c9501d65e7a80a14929cdf5eba02f", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GoogleCloudMessagingV2.class", 
+          "tag": 2920376576
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GCMDriver$3.class", 
+          "tag": 204932088
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GCMDriver$4.class", 
+          "tag": 1274657696
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GCMDriver$1.class", 
+          "tag": 2035488299
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GCMDriver$2.class", 
+          "tag": 1651968218
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GCMDriver.class", 
+          "tag": 571259806
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/GoogleCloudMessagingV2$1.class", 
+          "tag": 1547097428
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "b4dd6b88a0edfae282db209ba6f8b327"
+}

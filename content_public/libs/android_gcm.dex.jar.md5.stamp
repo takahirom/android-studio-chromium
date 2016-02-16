@@ -1,0 +1,40 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/android_gcm.dex.jar"
+  ], 
+  "files-md5": "d97937b10630ec1bc275572c25314fd1", 
+  "input-files": [
+    {
+      "path": "/home/takahirom/chromium/src/third_party/android_tools/sdk//extras/google/gcm/gcm-client/dist/gcm.jar", 
+      "tag": "144bd1fe3160d7f4078d4ac2dc461b5d", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3093651469
+        }, 
+        {
+          "path": "com/google/android/gcm/GCMBaseIntentService.class", 
+          "tag": 687104808
+        }, 
+        {
+          "path": "com/google/android/gcm/GCMBroadcastReceiver.class", 
+          "tag": 961333800
+        }, 
+        {
+          "path": "com/google/android/gcm/GCMConstants.class", 
+          "tag": 3209791605
+        }, 
+        {
+          "path": "com/google/android/gcm/GCMRegistrar.class", 
+          "tag": 135082439
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d96f8ef3220dc9ce370398e1193a3a07"
+}

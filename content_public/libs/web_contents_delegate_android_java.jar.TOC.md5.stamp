@@ -1,0 +1,33 @@
+{
+  "input-strings": [], 
+  "files-md5": "e094ca4507f0b833ab7bae990212a55d", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/web_contents_delegate_android_java.jar", 
+      "tag": "96c11b08a08b4a25e65a98653862b2fe", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid$1.class", 
+          "tag": 1888462300
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ValidationMessageBubble.class", 
+          "tag": 2141176123
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.class", 
+          "tag": 1966128194
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.class", 
+          "tag": 1746644701
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

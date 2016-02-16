@@ -1,0 +1,248 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/ModelTypeHelper$TestDelegate.class
+public interface org.chromium.sync.ModelTypeHelper$TestDelegate
+  SourceFile: "ModelTypeHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/PassphraseType.class
+public final class org.chromium.sync.PassphraseType extends java.lang.Enum<org.chromium.sync.PassphraseType> implements android.os.Parcelable
+  SourceFile: "PassphraseType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/AndroidSyncSettings.class
+public class org.chromium.sync.AndroidSyncSettings
+  SourceFile: "AndroidSyncSettings.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/AndroidSyncSettings$AndroidSyncSettingsChangedObserver.class
+class org.chromium.sync.AndroidSyncSettings$AndroidSyncSettingsChangedObserver implements android.content.SyncStatusObserver
+  SourceFile: "AndroidSyncSettings.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/PassphraseType$2.class
+class org.chromium.sync.PassphraseType$2
+  SourceFile: "PassphraseType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/PassphraseType$1.class
+final class org.chromium.sync.PassphraseType$1 extends java.lang.Object implements android.os.Parcelable$Creator<org.chromium.sync.PassphraseType>
+  SourceFile: "PassphraseType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/AndroidSyncSettings$AndroidSyncSettingsObserver.class
+public interface org.chromium.sync.AndroidSyncSettings$AndroidSyncSettingsObserver
+  SourceFile: "AndroidSyncSettings.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/AndroidSyncSettings$1.class
+class org.chromium.sync.AndroidSyncSettings$1
+  SourceFile: "AndroidSyncSettings.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/ModelType.class
+public class org.chromium.sync.ModelType
+  SourceFile: "ModelType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/SyncConstants.class
+public final class org.chromium.sync.SyncConstants
+  SourceFile: "SyncConstants.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/SyncContentResolverDelegate.class
+public interface org.chromium.sync.SyncContentResolverDelegate
+  SourceFile: "SyncContentResolverDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/ModelTypeHelper.class
+public class org.chromium.sync.ModelTypeHelper
+  SourceFile: "ModelTypeHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/SystemSyncContentResolverDelegate.class
+public class org.chromium.sync.SystemSyncContentResolverDelegate implements org.chromium.sync.SyncContentResolverDelegate
+  SourceFile: "SystemSyncContentResolverDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/InvalidationPreferences$PrefKeys.class
+public class org.chromium.sync.notifier.InvalidationPreferences$PrefKeys
+  SourceFile: "InvalidationPreferences.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/InvalidationPreferences$EditContext.class
+public class org.chromium.sync.notifier.InvalidationPreferences$EditContext
+  SourceFile: "InvalidationPreferences.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/InvalidationClientNameProvider.class
+public class org.chromium.sync.notifier.InvalidationClientNameProvider
+  SourceFile: "InvalidationClientNameProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/RandomizedInvalidationClientNameGenerator.class
+class org.chromium.sync.notifier.RandomizedInvalidationClientNameGenerator implements org.chromium.sync.notifier.InvalidationClientNameGenerator
+  SourceFile: "RandomizedInvalidationClientNameGenerator.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/InvalidationClientNameGenerator.class
+public interface org.chromium.sync.notifier.InvalidationClientNameGenerator
+  SourceFile: "InvalidationClientNameGenerator.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/InvalidationPreferences.class
+public class org.chromium.sync.notifier.InvalidationPreferences
+  SourceFile: "InvalidationPreferences.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/notifier/InvalidationIntentProtocol.class
+public class org.chromium.sync.notifier.InvalidationIntentProtocol
+  SourceFile: "InvalidationIntentProtocol.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/SystemAccountManagerDelegate$1.class
+class org.chromium.sync.signin.SystemAccountManagerDelegate$1 extends android.os.AsyncTask<java.lang.Void, java.lang.Void, android.accounts.Account[]>
+  SourceFile: "SystemAccountManagerDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/AccountManagerHelper$GetAuthTokenCallback.class
+public interface org.chromium.sync.signin.AccountManagerHelper$GetAuthTokenCallback
+  SourceFile: "AccountManagerHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/SystemAccountManagerDelegate$3.class
+class org.chromium.sync.signin.SystemAccountManagerDelegate$3 extends java.lang.Object implements android.accounts.AccountManagerCallback<java.lang.Boolean>
+  SourceFile: "SystemAccountManagerDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/AccountManagerHelper$ConnectionRetry.class
+class org.chromium.sync.signin.AccountManagerHelper$ConnectionRetry implements org.chromium.net.NetworkChangeNotifier$ConnectionTypeObserver
+  SourceFile: "AccountManagerHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/AccountManagerDelegate.class
+public interface org.chromium.sync.signin.AccountManagerDelegate
+  SourceFile: "AccountManagerDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/AccountManagerHelper.class
+public class org.chromium.sync.signin.AccountManagerHelper
+  SourceFile: "AccountManagerHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/AccountManagerHelper$1.class
+class org.chromium.sync.signin.AccountManagerHelper$1 implements java.lang.Runnable
+  SourceFile: "AccountManagerHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/SystemAccountManagerDelegate$2.class
+class org.chromium.sync.signin.SystemAccountManagerDelegate$2 implements java.lang.Runnable
+  SourceFile: "SystemAccountManagerDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/SystemAccountManagerDelegate.class
+public class org.chromium.sync.signin.SystemAccountManagerDelegate implements org.chromium.sync.signin.AccountManagerDelegate
+  SourceFile: "SystemAccountManagerDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/AccountManagerHelper$2.class
+class org.chromium.sync.signin.AccountManagerHelper$2 extends android.os.AsyncTask<java.lang.Void, java.lang.Void, java.lang.String>
+  SourceFile: "AccountManagerHelper.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/sync_java.jar!/org/chromium/sync/signin/ChromeSigninController.class
+public class org.chromium.sync.signin.ChromeSigninController
+  SourceFile: "ChromeSigninController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

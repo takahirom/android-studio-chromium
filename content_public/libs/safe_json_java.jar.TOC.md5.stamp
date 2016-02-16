@@ -1,0 +1,29 @@
+{
+  "input-strings": [], 
+  "files-md5": "dc3e758a01db3f7cd60df9c4eab50540", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/safe_json_java.jar", 
+      "tag": "aba75750eafb2ef1ba517801df6282ea", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/safejson/JsonSanitizer$StackChecker.class", 
+          "tag": 2239893621
+        }, 
+        {
+          "path": "org/chromium/components/safejson/JsonSanitizer$1.class", 
+          "tag": 2404985668
+        }, 
+        {
+          "path": "org/chromium/components/safejson/JsonSanitizer.class", 
+          "tag": 277147212
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

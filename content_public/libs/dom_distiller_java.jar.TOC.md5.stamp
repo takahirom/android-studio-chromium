@@ -1,0 +1,53 @@
+{
+  "input-strings": [], 
+  "files-md5": "734b2d82e77a98245b7fad36f3648ed4", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/dom_distiller_java.jar", 
+      "tag": "93592d9103bf1ba1eb5ce7d1ac6fc3a3", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/DomDistillerService.class", 
+          "tag": 15897995
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/DistilledPagePrefs$DistilledPagePrefsObserverWrapper.class", 
+          "tag": 1164607704
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/Theme.class", 
+          "tag": 1482246212
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/DistilledPagePrefs.class", 
+          "tag": 2936729212
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/FontFamily.class", 
+          "tag": 1331831445
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/DomDistillerUrlUtils.class", 
+          "tag": 1529339620
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/core/DistilledPagePrefs$Observer.class", 
+          "tag": 1483148191
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/content/DistillablePageUtils.class", 
+          "tag": 2205391272
+        }, 
+        {
+          "path": "org/chromium/components/dom_distiller/content/DistillablePageUtils$PageDistillableCallback.class", 
+          "tag": 3765151356
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

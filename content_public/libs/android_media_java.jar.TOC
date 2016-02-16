@@ -1,0 +1,48 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_media_java.jar!/org/chromium/third_party/android/media/MediaController$4.class
+class org.chromium.third_party.android.media.MediaController$4 implements android.view.View$OnClickListener
+  SourceFile: "MediaController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_media_java.jar!/org/chromium/third_party/android/media/MediaController$3.class
+class org.chromium.third_party.android.media.MediaController$3 implements android.widget.SeekBar$OnSeekBarChangeListener
+  SourceFile: "MediaController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_media_java.jar!/org/chromium/third_party/android/media/MediaController$2.class
+class org.chromium.third_party.android.media.MediaController$2 implements android.view.View$OnClickListener
+  SourceFile: "MediaController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_media_java.jar!/org/chromium/third_party/android/media/MediaController$1.class
+class org.chromium.third_party.android.media.MediaController$1 extends android.support.v4.media.TransportStateListener
+  SourceFile: "MediaController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_media_java.jar!/org/chromium/third_party/android/media/MediaController.class
+public class org.chromium.third_party.android.media.MediaController extends android.widget.FrameLayout
+  SourceFile: "MediaController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_media_java.jar!/org/chromium/third_party/android/media/MediaController$5.class
+class org.chromium.third_party.android.media.MediaController$5 implements android.view.View$OnClickListener
+  SourceFile: "MediaController.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

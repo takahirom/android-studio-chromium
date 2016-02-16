@@ -1,0 +1,16 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/invalidation_proto_java.jar!/org/chromium/components/invalidation/SerializedInvalidation$Invalidation.class
+public final class org.chromium.components.invalidation.SerializedInvalidation$Invalidation extends com.google.protobuf.nano.ExtendableMessageNano<org.chromium.components.invalidation.SerializedInvalidation$Invalidation>
+  SourceFile: "SerializedInvalidation.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/invalidation_proto_java.jar!/org/chromium/components/invalidation/SerializedInvalidation.class
+public interface org.chromium.components.invalidation.SerializedInvalidation
+  SourceFile: "SerializedInvalidation.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

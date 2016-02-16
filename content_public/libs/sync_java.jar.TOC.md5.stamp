@@ -1,0 +1,141 @@
+{
+  "input-strings": [], 
+  "files-md5": "5e476cc44de8309e029c394da17e915b", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/sync_java.jar", 
+      "tag": "15dbee54a22e6a532d9e22fe3948f142", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/sync/ModelTypeHelper$TestDelegate.class", 
+          "tag": 829575625
+        }, 
+        {
+          "path": "org/chromium/sync/PassphraseType.class", 
+          "tag": 3964922072
+        }, 
+        {
+          "path": "org/chromium/sync/AndroidSyncSettings.class", 
+          "tag": 2475184515
+        }, 
+        {
+          "path": "org/chromium/sync/AndroidSyncSettings$AndroidSyncSettingsChangedObserver.class", 
+          "tag": 2940631281
+        }, 
+        {
+          "path": "org/chromium/sync/PassphraseType$2.class", 
+          "tag": 45888540
+        }, 
+        {
+          "path": "org/chromium/sync/PassphraseType$1.class", 
+          "tag": 2417062480
+        }, 
+        {
+          "path": "org/chromium/sync/AndroidSyncSettings$AndroidSyncSettingsObserver.class", 
+          "tag": 2900917450
+        }, 
+        {
+          "path": "org/chromium/sync/AndroidSyncSettings$1.class", 
+          "tag": 2077340660
+        }, 
+        {
+          "path": "org/chromium/sync/ModelType.class", 
+          "tag": 771516126
+        }, 
+        {
+          "path": "org/chromium/sync/SyncConstants.class", 
+          "tag": 4214565744
+        }, 
+        {
+          "path": "org/chromium/sync/SyncContentResolverDelegate.class", 
+          "tag": 1043819828
+        }, 
+        {
+          "path": "org/chromium/sync/ModelTypeHelper.class", 
+          "tag": 4279509264
+        }, 
+        {
+          "path": "org/chromium/sync/SystemSyncContentResolverDelegate.class", 
+          "tag": 3513491317
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/InvalidationPreferences$PrefKeys.class", 
+          "tag": 1330825
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/InvalidationPreferences$EditContext.class", 
+          "tag": 3440790693
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/InvalidationClientNameProvider.class", 
+          "tag": 1690712946
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/RandomizedInvalidationClientNameGenerator.class", 
+          "tag": 2208212897
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/InvalidationClientNameGenerator.class", 
+          "tag": 524474410
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/InvalidationPreferences.class", 
+          "tag": 3489665692
+        }, 
+        {
+          "path": "org/chromium/sync/notifier/InvalidationIntentProtocol.class", 
+          "tag": 863666663
+        }, 
+        {
+          "path": "org/chromium/sync/signin/SystemAccountManagerDelegate$1.class", 
+          "tag": 3425721399
+        }, 
+        {
+          "path": "org/chromium/sync/signin/AccountManagerHelper$GetAuthTokenCallback.class", 
+          "tag": 1331341915
+        }, 
+        {
+          "path": "org/chromium/sync/signin/SystemAccountManagerDelegate$3.class", 
+          "tag": 1257655685
+        }, 
+        {
+          "path": "org/chromium/sync/signin/AccountManagerHelper$ConnectionRetry.class", 
+          "tag": 3531326465
+        }, 
+        {
+          "path": "org/chromium/sync/signin/AccountManagerDelegate.class", 
+          "tag": 396033825
+        }, 
+        {
+          "path": "org/chromium/sync/signin/AccountManagerHelper.class", 
+          "tag": 3722132845
+        }, 
+        {
+          "path": "org/chromium/sync/signin/AccountManagerHelper$1.class", 
+          "tag": 517763414
+        }, 
+        {
+          "path": "org/chromium/sync/signin/SystemAccountManagerDelegate$2.class", 
+          "tag": 1005827212
+        }, 
+        {
+          "path": "org/chromium/sync/signin/SystemAccountManagerDelegate.class", 
+          "tag": 553694213
+        }, 
+        {
+          "path": "org/chromium/sync/signin/AccountManagerHelper$2.class", 
+          "tag": 2747809243
+        }, 
+        {
+          "path": "org/chromium/sync/signin/ChromeSigninController.class", 
+          "tag": 290282790
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

@@ -1,0 +1,157 @@
+{
+  "input-strings": [], 
+  "files-md5": "6461669ddca221b1aed412cc29e6b4f9", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/jsr_305_javalib.jar", 
+      "tag": "5054c94012ee2e97b6b03bbf3c510947", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "javax/annotation/MatchesPattern$Checker.class", 
+          "tag": 653875743
+        }, 
+        {
+          "path": "javax/annotation/Nonnull$Checker.class", 
+          "tag": 645863981
+        }, 
+        {
+          "path": "javax/annotation/WillNotClose.class", 
+          "tag": 2031093358
+        }, 
+        {
+          "path": "javax/annotation/Nullable.class", 
+          "tag": 3932703290
+        }, 
+        {
+          "path": "javax/annotation/ParametersAreNonnullByDefault.class", 
+          "tag": 119591871
+        }, 
+        {
+          "path": "javax/annotation/Nonnegative$Checker.class", 
+          "tag": 1267173134
+        }, 
+        {
+          "path": "javax/annotation/CheckForSigned.class", 
+          "tag": 1715847634
+        }, 
+        {
+          "path": "javax/annotation/WillClose.class", 
+          "tag": 2917134658
+        }, 
+        {
+          "path": "javax/annotation/PropertyKey.class", 
+          "tag": 2640713985
+        }, 
+        {
+          "path": "javax/annotation/OverridingMethodsMustInvokeSuper.class", 
+          "tag": 2004399222
+        }, 
+        {
+          "path": "javax/annotation/Tainted.class", 
+          "tag": 3122218601
+        }, 
+        {
+          "path": "javax/annotation/Untainted.class", 
+          "tag": 1809854032
+        }, 
+        {
+          "path": "javax/annotation/RegEx.class", 
+          "tag": 2156831402
+        }, 
+        {
+          "path": "javax/annotation/WillCloseWhenClosed.class", 
+          "tag": 3238184405
+        }, 
+        {
+          "path": "javax/annotation/ParametersAreNullableByDefault.class", 
+          "tag": 1833266572
+        }, 
+        {
+          "path": "javax/annotation/Signed.class", 
+          "tag": 3637393731
+        }, 
+        {
+          "path": "javax/annotation/Syntax.class", 
+          "tag": 1415007265
+        }, 
+        {
+          "path": "javax/annotation/Detainted.class", 
+          "tag": 535917883
+        }, 
+        {
+          "path": "javax/annotation/Nonnegative.class", 
+          "tag": 1835482889
+        }, 
+        {
+          "path": "javax/annotation/MatchesPattern.class", 
+          "tag": 2708729137
+        }, 
+        {
+          "path": "javax/annotation/RegEx$Checker.class", 
+          "tag": 3102436269
+        }, 
+        {
+          "path": "javax/annotation/CheckForNull.class", 
+          "tag": 2538285340
+        }, 
+        {
+          "path": "javax/annotation/Nonnull.class", 
+          "tag": 1796470518
+        }, 
+        {
+          "path": "javax/annotation/CheckReturnValue.class", 
+          "tag": 3825516921
+        }, 
+        {
+          "path": "javax/annotation/concurrent/NotThreadSafe.class", 
+          "tag": 3375650206
+        }, 
+        {
+          "path": "javax/annotation/concurrent/ThreadSafe.class", 
+          "tag": 2365012990
+        }, 
+        {
+          "path": "javax/annotation/concurrent/Immutable.class", 
+          "tag": 438091354
+        }, 
+        {
+          "path": "javax/annotation/concurrent/GuardedBy.class", 
+          "tag": 3358489591
+        }, 
+        {
+          "path": "javax/annotation/meta/TypeQualifierNickname.class", 
+          "tag": 3712100922
+        }, 
+        {
+          "path": "javax/annotation/meta/When.class", 
+          "tag": 656720853
+        }, 
+        {
+          "path": "javax/annotation/meta/Exhaustive.class", 
+          "tag": 1100268214
+        }, 
+        {
+          "path": "javax/annotation/meta/TypeQualifierDefault.class", 
+          "tag": 246403308
+        }, 
+        {
+          "path": "javax/annotation/meta/TypeQualifier.class", 
+          "tag": 4154432533
+        }, 
+        {
+          "path": "javax/annotation/meta/TypeQualifierValidator.class", 
+          "tag": 34916400
+        }, 
+        {
+          "path": "javax/annotation/meta/Exclusive.class", 
+          "tag": 1204818323
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

@@ -1,0 +1,41 @@
+{
+  "input-strings": [], 
+  "files-md5": "da2430046895ab058f1fc46c2dfa1ff8", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/android_media_java.jar", 
+      "tag": "ab03b3595f17ebbea3c92e5f5c212cfd", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$4.class", 
+          "tag": 4280305311
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$3.class", 
+          "tag": 13221595
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$2.class", 
+          "tag": 1730497917
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$1.class", 
+          "tag": 862388039
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController.class", 
+          "tag": 3379903476
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$5.class", 
+          "tag": 3248714446
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

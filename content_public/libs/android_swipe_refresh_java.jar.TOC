@@ -1,0 +1,144 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$4.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$4 extends android.view.animation.Animation
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$7.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$7 extends android.view.animation.Animation
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$ProgressDrawableSize.class
+public interface org.chromium.third_party.android.swiperefresh.MaterialProgressDrawable$ProgressDrawableSize extends java.lang.annotation.Annotation
+  SourceFile: "MaterialProgressDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$Ring.class
+class org.chromium.third_party.android.swiperefresh.MaterialProgressDrawable$Ring
+  SourceFile: "MaterialProgressDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$OnRefreshListener.class
+public interface org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$OnRefreshListener
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$2.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$2 extends android.view.animation.Animation
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/CircleImageView.class
+class org.chromium.third_party.android.swiperefresh.CircleImageView extends android.widget.ImageView
+  SourceFile: "CircleImageView.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$3.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$3 extends android.view.animation.Animation
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable.class
+class org.chromium.third_party.android.swiperefresh.MaterialProgressDrawable extends android.graphics.drawable.Drawable implements android.graphics.drawable.Animatable
+  SourceFile: "MaterialProgressDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$6.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$6 extends android.view.animation.Animation
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$2.class
+class org.chromium.third_party.android.swiperefresh.MaterialProgressDrawable$2 implements android.view.animation.Animation$AnimationListener
+  SourceFile: "MaterialProgressDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$8.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$8 extends android.view.animation.Animation
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$5.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$5 implements android.view.animation.Animation$AnimationListener
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$1.class
+class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout$1 implements android.view.animation.Animation$AnimationListener
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/CircleImageView$OvalShadow.class
+class org.chromium.third_party.android.swiperefresh.CircleImageView$OvalShadow extends android.graphics.drawable.shapes.OvalShape
+  SourceFile: "CircleImageView.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$3.class
+class org.chromium.third_party.android.swiperefresh.MaterialProgressDrawable$3 implements android.graphics.drawable.Drawable$Callback
+  SourceFile: "MaterialProgressDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout.class
+public class org.chromium.third_party.android.swiperefresh.SwipeRefreshLayout extends android.view.ViewGroup
+  SourceFile: "SwipeRefreshLayout.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/android_swipe_refresh_java.jar!/org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$1.class
+class org.chromium.third_party.android.swiperefresh.MaterialProgressDrawable$1 extends android.view.animation.Animation
+  SourceFile: "MaterialProgressDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

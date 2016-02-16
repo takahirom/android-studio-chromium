@@ -1,0 +1,260 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/mojo_bindings_java.dex.jar"
+  ], 
+  "files-md5": "54ee76ba1984c4a3968fabeb4a3095d3", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/mojo_bindings_java.jar", 
+      "tag": "e73c4ae1a7cb4385078ef1e039dd8b18", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/SerializationException.class", 
+          "tag": 987785562
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RequireVersion.class", 
+          "tag": 1453737612
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$Proxy$Handler.class", 
+          "tag": 831389293
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/InterfaceControlMessagesHelper.class", 
+          "tag": 4139805938
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface.class", 
+          "tag": 3250668196
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/DelegatingConnectionErrorHandler.class", 
+          "tag": 3522816423
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Router.class", 
+          "tag": 86354376
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/BindingsHelper.class", 
+          "tag": 1761042194
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/InterfaceControlMessagesHelper$RunResponseForwardToCallback.class", 
+          "tag": 3557733381
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/HandleOwner.class", 
+          "tag": 374332629
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$Stub.class", 
+          "tag": 3453236015
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Decoder.class", 
+          "tag": 557434370
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RunMessageParams.class", 
+          "tag": 2733736313
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$AbstractProxy$HandlerImpl.class", 
+          "tag": 1470420654
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/AutoCloseableRouter.class", 
+          "tag": 1363227477
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$Manager.class", 
+          "tag": 3007971948
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Connector$1.class", 
+          "tag": 3950733690
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/ExecutorFactory$PipedExecutor.class", 
+          "tag": 3048584871
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$Proxy.class", 
+          "tag": 1329846908
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RouterImpl$1.class", 
+          "tag": 2320799655
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/MessageReceiver.class", 
+          "tag": 2151185071
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/MessageHeader.class", 
+          "tag": 3044537329
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback0.class", 
+          "tag": 286467104
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$AbstractProxy$HandlerImpl$1.class", 
+          "tag": 2988496040
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback5.class", 
+          "tag": 3696067927
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Encoder$EncoderState.class", 
+          "tag": 948338687
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/ConnectionErrorHandler.class", 
+          "tag": 1652095765
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/QueryVersionResult.class", 
+          "tag": 1711793164
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/AutoCloseableRouter$1.class", 
+          "tag": 1137010853
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/DataHeader.class", 
+          "tag": 3594374320
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Decoder$Validator.class", 
+          "tag": 2991053608
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Interface$AbstractProxy.class", 
+          "tag": 3734363781
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback2.class", 
+          "tag": 2602364884
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback4.class", 
+          "tag": 2139392982
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Union.class", 
+          "tag": 1926830952
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/MessageReceiverWithResponder.class", 
+          "tag": 965753903
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/InterfaceControlMessagesConstants.class", 
+          "tag": 413427852
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Message.class", 
+          "tag": 1516975012
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback3.class", 
+          "tag": 1605183130
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RouterImpl$HandleIncomingMessageThunk.class", 
+          "tag": 64370622
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RunOrClosePipeMessageParams.class", 
+          "tag": 1305712775
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RouterImpl$ResponderThunk.class", 
+          "tag": 1503660360
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/ServiceMessage.class", 
+          "tag": 118478036
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback7.class", 
+          "tag": 2174287486
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Encoder$1.class", 
+          "tag": 2113309390
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/ExecutorFactory.class", 
+          "tag": 2118332307
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RunResponseMessageParams.class", 
+          "tag": 4246566247
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/InterfaceRequest.class", 
+          "tag": 2187492612
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Connector.class", 
+          "tag": 2091635156
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks.class", 
+          "tag": 425207156
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback1.class", 
+          "tag": 2788063740
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/RouterImpl.class", 
+          "tag": 3428102935
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/DeserializationException.class", 
+          "tag": 2607274573
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/QueryVersion.class", 
+          "tag": 2550810324
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Struct.class", 
+          "tag": 3283095575
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Connector$AsyncWaiterCallback.class", 
+          "tag": 3640333141
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/SideEffectFreeCloseable.class", 
+          "tag": 2728846221
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Encoder.class", 
+          "tag": 3012119676
+        }, 
+        {
+          "path": "org/chromium/mojo/bindings/Callbacks$Callback6.class", 
+          "tag": 4200939148
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "65b49fbbc2ff6032ad9080b1bd439fa0"
+}

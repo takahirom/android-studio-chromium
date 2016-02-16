@@ -1,0 +1,85 @@
+{
+  "input-strings": [], 
+  "files-md5": "55952bf9c6388935e7a3eefd02c18619", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/android_data_chart_java.jar", 
+      "tag": "17d34e6ae2ba318603862a081a542890", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats$Entry.class", 
+          "tag": 3056200286
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$Entry.class", 
+          "tag": 4012651645
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartAxis.class", 
+          "tag": 2028577293
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$DataStreamUtils.class", 
+          "tag": 1362117813
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartDataUsageView$DataAxis.class", 
+          "tag": 2494469697
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartGridView.class", 
+          "tag": 2346789610
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartNetworkSeriesView.class", 
+          "tag": 441012052
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartDataUsageView.class", 
+          "tag": 163546648
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory.class", 
+          "tag": 1333273751
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats.class", 
+          "tag": 896590142
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$1.class", 
+          "tag": 5063262
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats$1.class", 
+          "tag": 2373110211
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$ParcelUtils.class", 
+          "tag": 1638298006
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/InvertedChartAxis.class", 
+          "tag": 3622496991
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats$NonMonotonicObserver.class", 
+          "tag": 2987907899
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartView.class", 
+          "tag": 3228952310
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartDataUsageView$TimeAxis.class", 
+          "tag": 4282978052
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

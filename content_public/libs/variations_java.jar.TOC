@@ -1,0 +1,8 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/variations_java.jar!/org/chromium/components/variations/VariationsAssociatedData.class
+public final class org.chromium.components.variations.VariationsAssociatedData
+  SourceFile: "VariationsAssociatedData.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

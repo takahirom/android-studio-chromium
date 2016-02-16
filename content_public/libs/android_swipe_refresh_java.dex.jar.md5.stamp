@@ -1,0 +1,96 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/android_swipe_refresh_java.dex.jar"
+  ], 
+  "files-md5": "895ae9ad3635795f80cfed94f697c12e", 
+  "input-files": [
+    {
+      "path": "../../out/Release/lib.java/android_swipe_refresh_java.jar", 
+      "tag": "260791315900f165b5052881faff5fb6", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$4.class", 
+          "tag": 692358195
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$7.class", 
+          "tag": 729745174
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$ProgressDrawableSize.class", 
+          "tag": 2782694253
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$Ring.class", 
+          "tag": 2836623880
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$OnRefreshListener.class", 
+          "tag": 3328489239
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$2.class", 
+          "tag": 3361081096
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/CircleImageView.class", 
+          "tag": 3235641058
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$3.class", 
+          "tag": 1872388657
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable.class", 
+          "tag": 3487256630
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$6.class", 
+          "tag": 3003910448
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$2.class", 
+          "tag": 1662690444
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$8.class", 
+          "tag": 2302640063
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$5.class", 
+          "tag": 1883158875
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout$1.class", 
+          "tag": 3205427070
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/CircleImageView$OvalShadow.class", 
+          "tag": 3294436231
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$3.class", 
+          "tag": 1328528655
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/SwipeRefreshLayout.class", 
+          "tag": 3083433665
+        }, 
+        {
+          "path": "org/chromium/third_party/android/swiperefresh/MaterialProgressDrawable$1.class", 
+          "tag": 1259805433
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "58a43b4f89ef95792914c7bb63d694b1"
+}

@@ -1,0 +1,64 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/CombinedPolicyProvider.class
+public class org.chromium.policy.CombinedPolicyProvider
+  SourceFile: "CombinedPolicyProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/AbstractAppRestrictionsProvider.class
+public abstract class org.chromium.policy.AbstractAppRestrictionsProvider extends org.chromium.policy.PolicyProvider
+  SourceFile: "AbstractAppRestrictionsProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/PolicyConverter.class
+public class org.chromium.policy.PolicyConverter
+  SourceFile: "PolicyConverter.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/AppRestrictionsProvider.class
+public class org.chromium.policy.AppRestrictionsProvider extends org.chromium.policy.AbstractAppRestrictionsProvider
+  SourceFile: "AppRestrictionsProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/CombinedPolicyProvider$PolicyChangeListener.class
+public interface org.chromium.policy.CombinedPolicyProvider$PolicyChangeListener
+  SourceFile: "CombinedPolicyProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/AbstractAppRestrictionsProvider$2.class
+class org.chromium.policy.AbstractAppRestrictionsProvider$2 extends android.os.AsyncTask<java.lang.Void, java.lang.Void, android.os.Bundle>
+  SourceFile: "AbstractAppRestrictionsProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/AbstractAppRestrictionsProvider$1.class
+class org.chromium.policy.AbstractAppRestrictionsProvider$1 extends android.content.BroadcastReceiver
+  SourceFile: "AbstractAppRestrictionsProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/policy_java.jar!/org/chromium/policy/PolicyProvider.class
+public abstract class org.chromium.policy.PolicyProvider
+  SourceFile: "PolicyProvider.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

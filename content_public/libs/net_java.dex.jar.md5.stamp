@@ -1,0 +1,252 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/net_java.dex.jar"
+  ], 
+  "files-md5": "b81b5d5be6b454d265a62cc36e5bb1ff", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/net_java.jar", 
+      "tag": "64cbeaaba6566cd68cd0b67f34052006", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$1.class", 
+          "tag": 3861989866
+        }, 
+        {
+          "path": "org/chromium/net/PrivateKeyType.class", 
+          "tag": 1791029391
+        }, 
+        {
+          "path": "org/chromium/net/NetId.class", 
+          "tag": 4275266813
+        }, 
+        {
+          "path": "org/chromium/net/X509Util$X509TrustManagerIceCreamSandwich.class", 
+          "tag": 3790221462
+        }, 
+        {
+          "path": "org/chromium/net/RemoteAndroidKeyStore.class", 
+          "tag": 2964520016
+        }, 
+        {
+          "path": "org/chromium/net/ConnectionSubtype.class", 
+          "tag": 1422563786
+        }, 
+        {
+          "path": "org/chromium/net/AndroidKeyStore.class", 
+          "tag": 4140551656
+        }, 
+        {
+          "path": "org/chromium/net/AndroidCertVerifyResult.class", 
+          "tag": 595366460
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifier$1.class", 
+          "tag": 748197994
+        }, 
+        {
+          "path": "org/chromium/net/IRemoteAndroidKeyStoreCallbacks$Stub.class", 
+          "tag": 2965067146
+        }, 
+        {
+          "path": "org/chromium/net/RegistrationPolicyAlwaysRegister.class", 
+          "tag": 4142520521
+        }, 
+        {
+          "path": "org/chromium/net/ProxyChangeListener$ProxyReceiver.class", 
+          "tag": 786160470
+        }, 
+        {
+          "path": "org/chromium/net/X509Util$X509TrustManagerImplementation.class", 
+          "tag": 491436864
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifier$ConnectionTypeObserver.class", 
+          "tag": 326290678
+        }, 
+        {
+          "path": "org/chromium/net/HttpNegotiateConstants.class", 
+          "tag": 667471172
+        }, 
+        {
+          "path": "org/chromium/net/X509Util$1.class", 
+          "tag": 3211561097
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$ConnectivityManagerDelegate.class", 
+          "tag": 3061803027
+        }, 
+        {
+          "path": "org/chromium/net/HttpNegotiateAuthenticator.class", 
+          "tag": 3969056248
+        }, 
+        {
+          "path": "org/chromium/net/IRemoteAndroidKeyStoreCallbacks$Stub$Proxy.class", 
+          "tag": 2474110362
+        }, 
+        {
+          "path": "org/chromium/net/RemoteAndroidKeyStore$RemotePrivateKey.class", 
+          "tag": 1028136218
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$NetworkConnectivityIntentFilter.class", 
+          "tag": 3100302527
+        }, 
+        {
+          "path": "org/chromium/net/TrafficStatsError.class", 
+          "tag": 2970767185
+        }, 
+        {
+          "path": "org/chromium/net/AndroidNetworkLibrary.class", 
+          "tag": 2492673339
+        }, 
+        {
+          "path": "org/chromium/net/NetError.class", 
+          "tag": 3537079208
+        }, 
+        {
+          "path": "org/chromium/net/ProxyChangeListener$Delegate.class", 
+          "tag": 1631240114
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$RegistrationPolicy.class", 
+          "tag": 1402858307
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$2.class", 
+          "tag": 2929819137
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$4.class", 
+          "tag": 3078252737
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$WifiManagerDelegate.class", 
+          "tag": 2072915117
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect.class", 
+          "tag": 2103737740
+        }, 
+        {
+          "path": "org/chromium/net/HttpNegotiateAuthenticator$1.class", 
+          "tag": 1960708400
+        }, 
+        {
+          "path": "org/chromium/net/IRemoteAndroidKeyStore$Stub.class", 
+          "tag": 4208302018
+        }, 
+        {
+          "path": "org/chromium/net/X509Util$X509TrustManagerJellyBean.class", 
+          "tag": 3936007521
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$NetworkState.class", 
+          "tag": 79828284
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$3.class", 
+          "tag": 3673066479
+        }, 
+        {
+          "path": "org/chromium/net/IRemoteAndroidKeyStore.class", 
+          "tag": 1689594639
+        }, 
+        {
+          "path": "org/chromium/net/X509Util.class", 
+          "tag": 2192014002
+        }, 
+        {
+          "path": "org/chromium/net/DefaultAndroidKeyStore$DefaultAndroidPrivateKey.class", 
+          "tag": 166541212
+        }, 
+        {
+          "path": "org/chromium/net/IRemoteAndroidKeyStore$Stub$Proxy.class", 
+          "tag": 3086076952
+        }, 
+        {
+          "path": "org/chromium/net/NetStringUtil.class", 
+          "tag": 1084396192
+        }, 
+        {
+          "path": "org/chromium/net/X509Util$TrustStorageListener.class", 
+          "tag": 88684717
+        }, 
+        {
+          "path": "org/chromium/net/ProxyChangeListener.class", 
+          "tag": 1222526096
+        }, 
+        {
+          "path": "org/chromium/net/GURLUtils.class", 
+          "tag": 3910420283
+        }, 
+        {
+          "path": "org/chromium/net/CertificateMimeType.class", 
+          "tag": 2513833736
+        }, 
+        {
+          "path": "org/chromium/net/RegistrationPolicyApplicationStatus.class", 
+          "tag": 3743651671
+        }, 
+        {
+          "path": "org/chromium/net/AndroidTrafficStats.class", 
+          "tag": 1287787423
+        }, 
+        {
+          "path": "org/chromium/net/ConnectionType.class", 
+          "tag": 317320457
+        }, 
+        {
+          "path": "org/chromium/net/AndroidPrivateKey.class", 
+          "tag": 2474027101
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback.class", 
+          "tag": 67229508
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$1.class", 
+          "tag": 2175872433
+        }, 
+        {
+          "path": "org/chromium/net/ProxyChangeListener$ProxyConfig.class", 
+          "tag": 1118412831
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifier.class", 
+          "tag": 2731718646
+        }, 
+        {
+          "path": "org/chromium/net/IRemoteAndroidKeyStoreCallbacks.class", 
+          "tag": 3672830596
+        }, 
+        {
+          "path": "org/chromium/net/CertVerifyStatusAndroid.class", 
+          "tag": 3866035731
+        }, 
+        {
+          "path": "org/chromium/net/NetworkChangeNotifierAutoDetect$Observer.class", 
+          "tag": 874549459
+        }, 
+        {
+          "path": "org/chromium/net/DefaultAndroidKeyStore.class", 
+          "tag": 2311660401
+        }, 
+        {
+          "path": "org/chromium/net/ProxyChangeListener$1.class", 
+          "tag": 2185844590
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "de19decf900f69a37c1940fe3f4b664a"
+}

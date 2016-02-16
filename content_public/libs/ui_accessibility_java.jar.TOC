@@ -1,0 +1,8 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/ui_accessibility_java.jar!/org/chromium/ui/accessibility/AXTextStyle.class
+public class org.chromium.ui.accessibility.AXTextStyle
+  SourceFile: "AXTextStyle.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

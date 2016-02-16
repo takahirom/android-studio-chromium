@@ -1,0 +1,64 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../../out/Release/lib.java/android_support_multidex_javalib.dex.jar"
+  ], 
+  "files-md5": "adc94f1e1aaa44065d809526fe40d5eb", 
+  "input-files": [
+    {
+      "path": "/home/takahirom/chromium/src/third_party/android_tools/sdk//extras/android/support/multidex/library/libs/android-support-multidex.jar", 
+      "tag": "e2dc527f8fb7679c99b66d0f774587b4", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2305920183
+        }, 
+        {
+          "path": "android/support/multidex/ZipUtil.class", 
+          "tag": 3810329265
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex$V4.class", 
+          "tag": 2365373178
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex.class", 
+          "tag": 3136584882
+        }, 
+        {
+          "path": "android/support/multidex/MultiDexExtractor.class", 
+          "tag": 1224020480
+        }, 
+        {
+          "path": "android/support/multidex/ZipUtil$CentralDirectory.class", 
+          "tag": 1955212309
+        }, 
+        {
+          "path": "android/support/multidex/MultiDexExtractor$1.class", 
+          "tag": 4224472742
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex$V19.class", 
+          "tag": 3450607212
+        }, 
+        {
+          "path": "android/support/multidex/MultiDexApplication.class", 
+          "tag": 2621789434
+        }, 
+        {
+          "path": "android/support/multidex/MultiDex$V14.class", 
+          "tag": 2193374383
+        }, 
+        {
+          "path": "android-support-multidex.version.txt", 
+          "tag": 2856680654
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "976ddd5cecef0d6d2ef33e81788c054f"
+}

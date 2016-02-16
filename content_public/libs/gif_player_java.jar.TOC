@@ -1,0 +1,40 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/gif_player_java.jar!/jp/tomorrowkey/android/gifplayer/BaseGifImage$1.class
+class jp.tomorrowkey.android.gifplayer.BaseGifImage$1
+  SourceFile: "BaseGifImage.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/gif_player_java.jar!/jp/tomorrowkey/android/gifplayer/BaseGifImage$GifHeaderStream.class
+final class jp.tomorrowkey.android.gifplayer.BaseGifImage$GifHeaderStream extends java.io.ByteArrayInputStream
+  SourceFile: "BaseGifImage.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/gif_player_java.jar!/jp/tomorrowkey/android/gifplayer/BaseGifImage.class
+public class jp.tomorrowkey.android.gifplayer.BaseGifImage
+  SourceFile: "BaseGifImage.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/gif_player_java.jar!/jp/tomorrowkey/android/gifplayer/BaseGifDrawable.class
+public class jp.tomorrowkey.android.gifplayer.BaseGifDrawable extends android.graphics.drawable.Drawable implements java.lang.Runnable,android.graphics.drawable.Animatable,android.os.Handler$Callback
+  SourceFile: "BaseGifDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/gif_player_java.jar!/jp/tomorrowkey/android/gifplayer/BaseGifDrawable$DecoderThread.class
+class jp.tomorrowkey.android.gifplayer.BaseGifDrawable$DecoderThread extends android.os.HandlerThread implements android.os.Handler$Callback
+  SourceFile: "BaseGifDrawable.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

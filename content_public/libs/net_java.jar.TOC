@@ -1,0 +1,456 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$1.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$MyNetworkCallback$1 implements java.lang.Runnable
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/PrivateKeyType.class
+public class org.chromium.net.PrivateKeyType
+  SourceFile: "PrivateKeyType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetId.class
+public class org.chromium.net.NetId
+  SourceFile: "NetId.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/X509Util$X509TrustManagerIceCreamSandwich.class
+final class org.chromium.net.X509Util$X509TrustManagerIceCreamSandwich implements org.chromium.net.X509Util$X509TrustManagerImplementation
+  SourceFile: "X509Util.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/RemoteAndroidKeyStore.class
+public class org.chromium.net.RemoteAndroidKeyStore implements org.chromium.net.AndroidKeyStore
+  SourceFile: "RemoteAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ConnectionSubtype.class
+public class org.chromium.net.ConnectionSubtype
+  SourceFile: "ConnectionSubtype.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/AndroidKeyStore.class
+public interface org.chromium.net.AndroidKeyStore
+  SourceFile: "AndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/AndroidCertVerifyResult.class
+public class org.chromium.net.AndroidCertVerifyResult
+  SourceFile: "AndroidCertVerifyResult.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifier$1.class
+class org.chromium.net.NetworkChangeNotifier$1 implements org.chromium.net.NetworkChangeNotifierAutoDetect$Observer
+  SourceFile: "NetworkChangeNotifier.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/IRemoteAndroidKeyStoreCallbacks$Stub.class
+public abstract class org.chromium.net.IRemoteAndroidKeyStoreCallbacks$Stub extends android.os.Binder implements org.chromium.net.IRemoteAndroidKeyStoreCallbacks
+  SourceFile: "IRemoteAndroidKeyStoreCallbacks.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/RegistrationPolicyAlwaysRegister.class
+public class org.chromium.net.RegistrationPolicyAlwaysRegister extends org.chromium.net.NetworkChangeNotifierAutoDetect$RegistrationPolicy
+  SourceFile: "RegistrationPolicyAlwaysRegister.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ProxyChangeListener$ProxyReceiver.class
+class org.chromium.net.ProxyChangeListener$ProxyReceiver extends android.content.BroadcastReceiver
+  SourceFile: "ProxyChangeListener.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/X509Util$X509TrustManagerImplementation.class
+interface org.chromium.net.X509Util$X509TrustManagerImplementation
+  SourceFile: "X509Util.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifier$ConnectionTypeObserver.class
+public interface org.chromium.net.NetworkChangeNotifier$ConnectionTypeObserver
+  SourceFile: "NetworkChangeNotifier.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/HttpNegotiateConstants.class
+public class org.chromium.net.HttpNegotiateConstants
+  SourceFile: "HttpNegotiateConstants.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/X509Util$1.class
+class org.chromium.net.X509Util$1
+  SourceFile: "X509Util.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$ConnectivityManagerDelegate.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$ConnectivityManagerDelegate
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/HttpNegotiateAuthenticator.class
+public class org.chromium.net.HttpNegotiateAuthenticator
+  SourceFile: "HttpNegotiateAuthenticator.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/IRemoteAndroidKeyStoreCallbacks$Stub$Proxy.class
+class org.chromium.net.IRemoteAndroidKeyStoreCallbacks$Stub$Proxy implements org.chromium.net.IRemoteAndroidKeyStoreCallbacks
+  SourceFile: "IRemoteAndroidKeyStoreCallbacks.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/RemoteAndroidKeyStore$RemotePrivateKey.class
+class org.chromium.net.RemoteAndroidKeyStore$RemotePrivateKey implements org.chromium.net.AndroidPrivateKey
+  SourceFile: "RemoteAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$NetworkConnectivityIntentFilter.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$NetworkConnectivityIntentFilter extends android.content.IntentFilter
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/TrafficStatsError.class
+public class org.chromium.net.TrafficStatsError
+  SourceFile: "TrafficStatsError.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/AndroidNetworkLibrary.class
+class org.chromium.net.AndroidNetworkLibrary
+  SourceFile: "AndroidNetworkLibrary.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetError.class
+public class org.chromium.net.NetError
+  SourceFile: "NetError.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ProxyChangeListener$Delegate.class
+public interface org.chromium.net.ProxyChangeListener$Delegate
+  SourceFile: "ProxyChangeListener.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$RegistrationPolicy.class
+public abstract class org.chromium.net.NetworkChangeNotifierAutoDetect$RegistrationPolicy
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$2.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$MyNetworkCallback$2 implements java.lang.Runnable
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$4.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$MyNetworkCallback$4 implements java.lang.Runnable
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$WifiManagerDelegate.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$WifiManagerDelegate
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect.class
+public class org.chromium.net.NetworkChangeNotifierAutoDetect extends android.content.BroadcastReceiver
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/HttpNegotiateAuthenticator$1.class
+class org.chromium.net.HttpNegotiateAuthenticator$1 extends java.lang.Object implements android.accounts.AccountManagerCallback<android.os.Bundle>
+  SourceFile: "HttpNegotiateAuthenticator.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/IRemoteAndroidKeyStore$Stub.class
+public abstract class org.chromium.net.IRemoteAndroidKeyStore$Stub extends android.os.Binder implements org.chromium.net.IRemoteAndroidKeyStore
+  SourceFile: "IRemoteAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/X509Util$X509TrustManagerJellyBean.class
+final class org.chromium.net.X509Util$X509TrustManagerJellyBean implements org.chromium.net.X509Util$X509TrustManagerImplementation
+  SourceFile: "X509Util.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$NetworkState.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$NetworkState
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback$3.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$MyNetworkCallback$3 implements java.lang.Runnable
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/IRemoteAndroidKeyStore.class
+public interface org.chromium.net.IRemoteAndroidKeyStore extends android.os.IInterface
+  SourceFile: "IRemoteAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/X509Util.class
+public class org.chromium.net.X509Util
+  SourceFile: "X509Util.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/DefaultAndroidKeyStore$DefaultAndroidPrivateKey.class
+class org.chromium.net.DefaultAndroidKeyStore$DefaultAndroidPrivateKey implements org.chromium.net.AndroidPrivateKey
+  SourceFile: "DefaultAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/IRemoteAndroidKeyStore$Stub$Proxy.class
+class org.chromium.net.IRemoteAndroidKeyStore$Stub$Proxy implements org.chromium.net.IRemoteAndroidKeyStore
+  SourceFile: "IRemoteAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetStringUtil.class
+public class org.chromium.net.NetStringUtil
+  SourceFile: "NetStringUtil.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/X509Util$TrustStorageListener.class
+final class org.chromium.net.X509Util$TrustStorageListener extends android.content.BroadcastReceiver
+  SourceFile: "X509Util.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ProxyChangeListener.class
+public class org.chromium.net.ProxyChangeListener
+  SourceFile: "ProxyChangeListener.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/GURLUtils.class
+public final class org.chromium.net.GURLUtils
+  SourceFile: "GURLUtils.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/CertificateMimeType.class
+public class org.chromium.net.CertificateMimeType
+  SourceFile: "CertificateMimeType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/RegistrationPolicyApplicationStatus.class
+public class org.chromium.net.RegistrationPolicyApplicationStatus extends org.chromium.net.NetworkChangeNotifierAutoDetect$RegistrationPolicy implements org.chromium.base.ApplicationStatus$ApplicationStateListener
+  SourceFile: "RegistrationPolicyApplicationStatus.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/AndroidTrafficStats.class
+public class org.chromium.net.AndroidTrafficStats
+  SourceFile: "AndroidTrafficStats.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ConnectionType.class
+public class org.chromium.net.ConnectionType
+  SourceFile: "ConnectionType.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/AndroidPrivateKey.class
+public interface org.chromium.net.AndroidPrivateKey
+  SourceFile: "AndroidPrivateKey.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$MyNetworkCallback.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$MyNetworkCallback extends android.net.ConnectivityManager$NetworkCallback
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$1.class
+class org.chromium.net.NetworkChangeNotifierAutoDetect$1
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ProxyChangeListener$ProxyConfig.class
+class org.chromium.net.ProxyChangeListener$ProxyConfig
+  SourceFile: "ProxyChangeListener.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifier.class
+public class org.chromium.net.NetworkChangeNotifier
+  SourceFile: "NetworkChangeNotifier.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/IRemoteAndroidKeyStoreCallbacks.class
+public interface org.chromium.net.IRemoteAndroidKeyStoreCallbacks extends android.os.IInterface
+  SourceFile: "IRemoteAndroidKeyStoreCallbacks.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/CertVerifyStatusAndroid.class
+public class org.chromium.net.CertVerifyStatusAndroid
+  SourceFile: "CertVerifyStatusAndroid.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/NetworkChangeNotifierAutoDetect$Observer.class
+public interface org.chromium.net.NetworkChangeNotifierAutoDetect$Observer
+  SourceFile: "NetworkChangeNotifierAutoDetect.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/DefaultAndroidKeyStore.class
+public class org.chromium.net.DefaultAndroidKeyStore implements org.chromium.net.AndroidKeyStore
+  SourceFile: "DefaultAndroidKeyStore.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/net_java.jar!/org/chromium/net/ProxyChangeListener$1.class
+class org.chromium.net.ProxyChangeListener$1
+  SourceFile: "ProxyChangeListener.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

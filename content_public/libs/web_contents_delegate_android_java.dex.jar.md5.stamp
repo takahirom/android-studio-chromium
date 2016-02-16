@@ -1,0 +1,40 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/web_contents_delegate_android_java.dex.jar"
+  ], 
+  "files-md5": "e094ca4507f0b833ab7bae990212a55d", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/web_contents_delegate_android_java.jar", 
+      "tag": "96c11b08a08b4a25e65a98653862b2fe", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid$1.class", 
+          "tag": 1888462300
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ValidationMessageBubble.class", 
+          "tag": 2141176123
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.class", 
+          "tag": 1966128194
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.class", 
+          "tag": 1746644701
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "ed65c85c13757eb3d8c4d9477ad5c3d2"
+}

@@ -1,0 +1,32 @@
+{
+  "input-strings": [
+    "/home/takahirom/chromium/src/third_party/android_tools/sdk//build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "../out/Release/lib.java/invalidation_proto_java.dex.jar"
+  ], 
+  "files-md5": "93eb5446d716976e94d64c65b1434566", 
+  "input-files": [
+    {
+      "path": "../out/Release/lib.java/invalidation_proto_java.jar", 
+      "tag": "e02dca8cd802595b8a7a54f241203854", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 3868960729
+        }, 
+        {
+          "path": "org/chromium/components/invalidation/SerializedInvalidation$Invalidation.class", 
+          "tag": 946948321
+        }, 
+        {
+          "path": "org/chromium/components/invalidation/SerializedInvalidation.class", 
+          "tag": 2990603219
+        }
+      ]
+    }
+  ], 
+  "strings-md5": "781a49bdf54680e057aa70c01c65cb15"
+}

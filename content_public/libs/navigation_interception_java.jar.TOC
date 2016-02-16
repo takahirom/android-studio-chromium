@@ -1,0 +1,16 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/navigation_interception_java.jar!/org/chromium/components/navigation_interception/InterceptNavigationDelegate.class
+public interface org.chromium.components.navigation_interception.InterceptNavigationDelegate
+  SourceFile: "InterceptNavigationDelegate.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/navigation_interception_java.jar!/org/chromium/components/navigation_interception/NavigationParams.class
+public class org.chromium.components.navigation_interception.NavigationParams
+  SourceFile: "NavigationParams.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}

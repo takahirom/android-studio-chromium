@@ -1,0 +1,24 @@
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/safe_json_java.jar!/org/chromium/components/safejson/JsonSanitizer$StackChecker.class
+class org.chromium.components.safejson.JsonSanitizer$StackChecker
+  SourceFile: "JsonSanitizer.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/safe_json_java.jar!/org/chromium/components/safejson/JsonSanitizer$1.class
+class org.chromium.components.safejson.JsonSanitizer$1
+  SourceFile: "JsonSanitizer.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
+Classfile jar:file:/home/takahirom/chromium/src/out/Release/lib.java/safe_json_java.jar!/org/chromium/components/safejson/JsonSanitizer.class
+public class org.chromium.components.safejson.JsonSanitizer
+  SourceFile: "JsonSanitizer.java"
+  minor version: 0
+  major version: 51
+Constant pool:
+{
+}
